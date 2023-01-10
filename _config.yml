@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Treat Template
+title: Sourdough At Home
 url: "https://sourdoughathome.com"
 baseurl:
 google_analytics_key:
@@ -10,16 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Sourdough At Home Food Blog.
 author:
   name: Sourdough At Home
-  email:
+  email: doughreme@protonmail.com
   twitter: sourdoughathome # twitter username without the @ symbol
 social:
-  name: Treat Template
-  links:
-    - https://github.com/CloudCannon/treat-jekyll-template
-
+  name: Sourdough At Home
 # -----
 # Build
 
@@ -67,19 +64,11 @@ exclude:
   - README.md
   - LICENCE
 
-# -----------
-# CloudCannon
-
 social_icons:
-  - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
   - Pinterest
-  - Tumblr
   - Twitter
   - YouTube
-  - RSS
 
 _options:
   author_image:
