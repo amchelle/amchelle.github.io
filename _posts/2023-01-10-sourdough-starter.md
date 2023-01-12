@@ -79,7 +79,7 @@ Try the float test. Take a spoonful of starter into a cup of water and see if it
 
 _Do I have to add the rye?_
 
-You don't have to, I find that it adds flavor and really helps with fermentation because it has more nutrients than other flours. You can transition your rye starter to an all white starter by feeding with all-purpose flour only. Give it a few feedings to adjust. I use a rye starter for classic sourdough and white starter for pastries like croissants.
+You don't have to, I find that it adds flavor and really helps with fermentation because it has more nutrients than other flours. You can transition your rye starter to an all white starter by feeding with all-purpose flour only. Give it a few feedings to adjust. I use a rye starter for classic sourdough breads and white starter for pastries like croissants.
 
 **Common Issues**
 
