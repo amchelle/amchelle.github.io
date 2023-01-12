@@ -33,7 +33,7 @@ You will need a scale that measures grams. Glass jar with lid. Something to stir
 
 **How Long**
 
-I have heard that some people get theirs started in 6 days, but to be honest I can't believe it. Mine took a whopping 18 days! I thought it would never rise, but it did with some crucial troubleshooting steps and days of research.
+I have heard that some people get theirs started in 6 days, but to be honest I can't believe it. My main starter took a whopping 18 days! I thought it would never rise, but it did with some crucial troubleshooting steps and days of research.
 
 **Feedings**
 
@@ -63,7 +63,7 @@ Again, this is normal in the beginning. It means the starter is hungry and needs
 
 _I stirred my starter with a metal spoon, will it die?_
 
-This will not kill your starter. You can use stainless steel, wood, or plastic. Stay away from reactive metals like copper.
+This will not kill your starter. You can use stainless steel, wood, plastic, or silicone. Stay away from reactive metals like copper.
 
 ![Whisk](/images/whisk.jpg)
 
