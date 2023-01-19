@@ -19,7 +19,7 @@ recipe:
     **Dough**
 
     * 430 g bread flour
-    * 280 g filter water
+    * 300 g filter water
     * 65 g bubbly starter
     * 10 g salt
     * (Optional rice flour for dusting)
@@ -38,7 +38,7 @@ recipe:
   directions_markdown: |-
     **Starter**
 
-    1. **Feed starter.** Mix 10g rye flour, 80g all-purpose flour, 80g starter, 80g filtered water
+    1. **Feed starter.** Mix 10g rye flour, 80g all-purpose flour, 80g starter, 80g filtered water.
 
     **Dough**
     1. **Make dough.** Measure and mix water and starter in a mixing bowl until fully combined. Add bread flour and mix. Dough will be shaggy. Add salt to top, cover with lid or damp towel and let sit for 30 minutes.
@@ -84,7 +84,7 @@ Once your starter is a peak, bubbly, and doubled in size you will make your doug
 
 For your dough you can use a ceramic, Pyrex, glass, or stainless steel bowl. I like to use a Pyrex bowl and a glass lid.
 
-Measure and mix 65g starter and 280g filtered water in a mixing bowl. Make sure that the starter is well mixed, this step is crucial for an even crumb. Feed your leftover starter and put in fridge or counter for next use.
+Measure and mix 65g starter and 300g filtered water in a mixing bowl. Make sure that the starter is well mixed, this step is crucial for an even crumb. Feed your leftover starter and put in fridge or counter for next use.
 
 Measure 430g bread flour, add to bowl and mix. The dough will be sticky and shaggy.
 
