@@ -4,6 +4,7 @@ title: Super Soft Sourdough Sandwich Bread
 categories:
   - Breads
 featured_image: /images/sandwich_bread.jpg
+image: /images/sandwich_bread.jpg
 recipe:
   servings: 1 loaf
   prep: 19 hours

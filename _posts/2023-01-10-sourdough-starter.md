@@ -4,6 +4,7 @@ title: Sourdough Starter
 categories:
   - Start your Sourdough Journey
 featured_image: /images/starter1.jpg
+image: /images/starter1.jpg
 recipe:
   servings: 240 g sourdough starter
   prep: 15 minutes
