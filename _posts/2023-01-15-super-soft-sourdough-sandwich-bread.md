@@ -38,7 +38,7 @@ recipe:
     1. **Feed starter.** Mix 10g rye flour, 80g all-purpose flour, 80g starter, 80g filtered water.
 
     **Dough**
-    1. **Make dough.** Measure and mix water, starter, and honey in a mixing bowl until fully combined. Add bread flour and mix. Dough will be shagge. Add salt to top, cover with lid or damp towl and let sit for 30 minutes.
+    1. **Make dough.** Measure and mix water, starter, and honey in a mixing bowl until fully combined. Add bread flour and mix. Dough will be shaggy. Add salt to top, cover with lid or damp towl and let sit for 30 minutes.
     2. **Autolyse.** Mix salt into dough and let sit for 30 minutes.
     3. **Stretch and fold.** Perform a stretch and fold and let sit covered for 30 minutes. Repeat step up to two more times.
     4. **Bulk fermentation.** Leave dough covered for 8-11 hours (overnight) after your start step 2.
