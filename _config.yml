@@ -10,13 +10,20 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Sourdough At Home Food Blog.
+description: Sourdough At Home Receipe Blog.
 author:
   name: Sourdough At Home
   email: doughreme@protonmail.com
   twitter: sourdoughathome # twitter username without the @ symbol
 social:
   name: Sourdough At Home
+  links:
+    - https://twitter.com/sourdoughathome
+    - https://www.instagram.com/sourdoughathomerecipes/
+    - https://www.pinterest.com/sourdoughathome/
+twitter:
+  username: sourdoughathome
+  card: summary
 # -----
 # Build
 

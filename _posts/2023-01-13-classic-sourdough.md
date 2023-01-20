@@ -4,6 +4,7 @@ title: Classic Sourdough
 categories:
   - Breads
 featured_image: /images/classicSourdough.jpg
+image: /images/classicSourdough.jpg
 recipe:
   servings: 1 boule
   prep: 24 hours
