@@ -50,7 +50,7 @@ recipe:
     6. **Proof.** Perform another letter fold and place into banneton basket or bowl with floured dishtowel. Cover with plastic shower cap or damp towel, put in fridge, and let sit overnight for 12-13 hours.
     7. **Preheat.** Preheat oven to 500°F with pot and lid in oven for 30-1hr depending on pot. 
     8. **Score.** Take dough out of fridge, flip onto parchment paper (for Dutch oven) or straight onto Challenger pan. Score dough. Add two ice cubes to Challenger pan or mist dough in Dutch oven.
-    9. **Bake.** Turn oven down to 450°F and bake covered for 20 minutes. Remove lid and bake for another 18-20 minutes until brown. If you are using the Challenger pan, remove lid and place the base onto the inverted lid.
+    9. **Bake.** Turn oven down to 450°F and bake covered for 20 minutes. Remove lid and bake for another 18-20 minutes until brown. If you are using the Challenger pan, remove lid and place the base onto the inverted lid. If you are using a Dutch oven, you might need to push baking time to 25-30 minutes for extra browning depending on your oven.
 ---
 
 Your go-to classic sourdough loaf. Crunchy, golden crust with soft crumb and so much flavor! Follow this recipe to make your best loaf with a beautiful ear and perfect taste.
@@ -175,6 +175,6 @@ Turn oven down to 450 degrees and bake covered for 20 minutes.
 
 ![Score](/images/classic_pan.jpg)
 
-After 20 minutes, remove the lid from the dutch oven and bake for 18-20 minutes until brown, not burnt. If you are using the Challenger pan, take the lid off and place the base onto the inverted lid and put back in oven.
+After 20 minutes, remove the lid from the dutch oven and bake for 18-20 minutes until brown, not burnt. If you are using the Challenger pan, take the lid off and place the base onto the inverted lid and put back in oven. If you are using a Dutch oven, you might need to push baking time to 25-30 minutes for extra browning depending on your oven.
 
 ![Classic](/images/classic_sourdough.jpg)
