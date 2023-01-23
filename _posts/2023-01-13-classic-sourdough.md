@@ -117,7 +117,7 @@ Take the temperature of the dough, you should notice how the thermometor comes o
 
 Cover and let sit for 30 mins. I like to do this step two more times for optimal gluten development, but one will suffice. The more stretch and folds you do, the better crumb and final shape of your dough.
 
-![Stretch and Fold](/images/classic_fold.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgPHWpMonsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 5. Bulk Fermentation
 

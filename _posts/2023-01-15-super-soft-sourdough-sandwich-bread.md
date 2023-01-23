@@ -102,6 +102,8 @@ After 30 mins, your dough should be a little more relaxed and glossy looking.
 
 Wet your hands, pinch and graby one side of the dough with both hands and pull up. Stretch until you feel some resistance and fold into the center of the dough. Rotate the bowl 90 degrees and repeat the stretch and fold. Continue until you have completed all four sides. You will feel the dough tighten as you go around.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgPHWpMonsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Take the temperature of the dough, you should notice how the thermometor comes out cleaner than before.
 
 Cover and let sit for 30 mins. I like to do this step two more times for optimal gluten development, but one will suffice. The more stretch and folds you do, the better crumb and final shape of your dough.
