@@ -4,7 +4,7 @@ image: /images/logo.png
 ---
 
 <section class="posts">
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts %} {% if post.pinned %}
   <article class="post">
     {% include post-heading.html post=post %}
     <div class="image">
@@ -17,7 +17,21 @@ image: /images/logo.png
       <a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
     </p>
   </article>
-  {% endfor %} {% if paginator.total_pages > 1 %}
+  {% endif %} {% endfor %} {% if paginator.total_pages > 1 %} {% endif %} {% for
+  post in paginator.posts %} {% unless post.pinned %}
+  <article class="post">
+    {% include post-heading.html post=post %}
+    <div class="image">
+      <img src="{{ post.featured_image }}" alt="{{ post.title }}" />
+    </div>
+
+    {{ post.excerpt }}
+
+    <p>
+      <a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+    </p>
+  </article>
+  {% endunless %} {% endfor %} {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
     <a
