@@ -12,7 +12,7 @@ recipe:
   ingredients_markdown: |-
     **French Toast**
 
-    * (4) 1/2 in. slices [sourdough sandwich bread](https://www.sourdoughathome.com/breads/2023/01/15/super-soft-sourdough-sandwich-bread/)
+    * (4) 1/2 in. slices [sourdough sandwich bread](https://www.sourdoughathome.com/breads/2023/01/15/sourdough-sandwich-bread/)
     * 3/4 cup milk
     * 1 1/2 tsp vanilla
     * 1 egg

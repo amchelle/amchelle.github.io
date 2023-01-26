@@ -1,13 +1,13 @@
 ---
 date: 2023-01-15
-title: Super Soft Sourdough Sandwich Bread
+title: Sourdough Sandwich Bread
 categories:
   - Breads
-featured_image: /images/sandwich_bread.jpg
-image: /images/sandwich_bread.jpg
+featured_image: /images/sandwich_complete.jpg
+image: /images/sandwich_complete.jpg
 recipe:
   servings: 1 loaf
-  prep: 19 hours
+  prep: 20 hours
   cook: 40 minutes
   ingredients_markdown: |-
     **Starter (Leaven)**
@@ -19,9 +19,10 @@ recipe:
 
     **Dough**
 
-    * 90 g starter
-    * 300 g filtered water
+    * 70 g starter
+    * 270 g filtered water
     * 1 tablespoon honey
+    * 20 g olive oil
     * 450 g bread flour
     * 10 g salt
 
@@ -39,10 +40,10 @@ recipe:
     1. **Feed starter.** Mix 10g rye flour, 80g all-purpose flour, 80g starter, 80g filtered water.
 
     **Dough**
-    1. **Make dough.** Measure and mix water, starter, and honey in a mixing bowl until fully combined. Add bread flour and mix. Dough will be shaggy. Add salt to top, cover with lid or damp towl and let sit for 30 minutes.
+    1. **Make dough.** Measure and mix water, starter, olive oil, and honey in a mixing bowl until fully combined. Add bread flour and mix. Dough will be shaggy. Add salt to top, cover with lid or damp towl and let sit for 30 minutes.
     2. **Autolyse.** Mix salt into dough and let sit for 30 minutes.
     3. **Stretch and fold.** Perform a stretch and fold and let sit covered for 30 minutes. Repeat step up to two more times.
-    4. **Bulk fermentation.** Leave dough covered for 8-11 hours (overnight) after your start step 2.
+    4. **Bulk fermentation.** Leave dough covered for 11-12 hours (overnight) after your start step 2.
     5. **Shape.** Grease the inside of loaf pan. Gently shape dough into a rectangle and pull to the width of your pan. Roll up dough and place seam side down. Cover with damp dishtowel and let sit for 2 hours.
     6. **Bake.** Preheat oven to 400°F. Bake for 40 minutes or until golden brown. Let sit for 10 minutes and then remove from pan and let sit for at least 1 hour.
 ---
@@ -57,8 +58,8 @@ This is a super soft and fluffy sourdough sandwich bread recipe. Make some tasty
 - **8:00 pm:** stretch and fold
 - **8:30 pm:** stretch and fold
 - **9:00 pm:** stretch and fold
-- **6:00 am(next day):** shape and second rise (proof)
-- **8:00 am:** bake
+- **7:00 am(next day):** shape and second rise (proof)
+- **9:00 am:** bake
 
 # Step by Step Instructions
 
@@ -72,7 +73,7 @@ Once your starter is at peak, bubbly, and doubled in size you will make your dou
 
 For your dough you can use a ceramic, Pyrex, glass, or stainless steel bowl. I like to use a Pyrex bowl and a glass lid.
 
-Measure and mix 90g starter, 300g filtered water, and 1 tablespoon honey in a mixing bowl. Make sure that the starter is well mixed, this step is crucial for an even crumb. Feed your leftover starter and put in fridge or counter for next use.
+Measure and mix 70g starter, 270g filtered water, 20g olive oil, and 1 tablespoon honey in a mixing bowl. Make sure that the starter is well mixed, this step is crucial for an even crumb. Feed your leftover starter and put in fridge or counter for next use.
 
 Measure 450g bread flour, add to bowl and mix. The dough will be sticky and shaggy.
 
@@ -112,7 +113,7 @@ Cover and let sit for 30 mins. I like to do this step two more times for optimal
 
 ### 5. Bulk Fermentation
 
-Leave your dough covered on the counter for 8-11 hours (overnight) after you start step 2.
+Leave your dough covered on the counter for 11-12 hours (overnight) after you start step 2.
 
 ![Bulk](/images/sandwich_bulk.jpg)
 
@@ -130,10 +131,10 @@ Grease the inside of your loaf pan and set it at the top of your dough. Gently s
 
 |                                      |                                    |
 | ------------------------------------ | ---------------------------------- |
-| ![Shape](/images/sandwich_shape.jpg) | ![Pan](/images/sandwich_after.jpg) |
+| ![Shape](/images/sandwich_shape.jpg) | ![Pan](/images/sandwich_proof.jpg) |
 
 ### 8. Bake
 
 Preheat oven to 400 degrees. Bake for 40 minutes or until golden brown. Let sit in pan for 10 minutes after baking. Remove from loaf pan and let sit for at least 1 hour before slicing.
 
-![Slice](/images/sandwich_slice.jpg)
+![Slice](/images/sandwich_slices.jpg)
