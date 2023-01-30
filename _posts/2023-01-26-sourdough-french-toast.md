@@ -13,18 +13,18 @@ recipe:
     **French Toast**
 
     * (4) 1/2 in. slices [sourdough sandwich bread](https://www.sourdoughathome.com/breads/2023/01/15/sourdough-sandwich-bread/)
-    * 3/4 cup milk
-    * 1 1/2 tsp vanilla
-    * 1 egg
-    * 3/4 tsp cinnamon
-    * 1 tbsp butter
+    * 3/4 cup [milk](https://amzn.to/3DtygNI)
+    * 1 1/2 tsp [vanilla](https://amzn.to/3RiEkOU)
+    * 1 [egg](https://amzn.to/3wGDwtD)
+    * 3/4 tsp [cinnamon](https://amzn.to/3Jqpwf4)
+    * 1 tbsp [butter](https://amzn.to/3HgANMx)
 
     **Toppings**
 
-    * whipped cream
-    * maple syrup
-    * powdered sugar
-    * fruit
+    * [whipped cream](https://amzn.to/3jfUCLM)
+    * [maple syrup](https://amzn.to/3Jqqx6S)
+    * [powdered sugar](https://amzn.to/3YbaIVM)
+    * [fruit](https://amzn.to/3RjZPib)
 
   directions_markdown: |-
     1. **Mix.** Measure and mix milk, vanilla, egg, and cinnamon in a bowl.

@@ -12,8 +12,8 @@ recipe:
   ingredients_markdown: |-
     **Starter (Leaven)**
 
-    * 10 g rye flour
-    * 70 g all-purpose flour
+    * 10 g [rye flour](https://amzn.to/3JpUJz6)
+    * 70 g [all-purpose flour](https://amzn.to/3WPOQOR)
     * 80 g starter
     * 80 g filtered water
 
@@ -21,18 +21,18 @@ recipe:
 
     * 90 g starter
     * 270 g filtered water
-    * 1 tablespoon honey
-    * 2 tablespoons butter (softened)
-    * 450 g bread flour
-    * 10 g salt
+    * 1 tablespoon [honey](https://amzn.to/3HgANfv)
+    * 2 tablespoons [butter](https://amzn.to/3HgANMx) (softened)
+    * 450 g [bread flour](https://amzn.to/3HldQHP)
+    * 10 g [salt](https://amzn.to/3kJMDqI)
 
     **Tools**
 
-    * Scale
-    * Mixing bowl
-    * plastic scraper
-    * Dish towel
-    * Loaf pan
+    * [Scale](https://amzn.to/3RjG2iT)
+    * [Mixing bowl](https://amzn.to/40cm2TA)
+    * [plastic scraper](https://amzn.to/3DqWLuY)
+    * [Dish towel](https://amzn.to/3JpT78w)
+    * [Loaf pan](https://amzn.to/3Hnxhjc)
 
   directions_markdown: |-
     **Starter**
@@ -71,13 +71,13 @@ I recommend a 100% hydration starter for this receipe. This means equal parts wa
 
 Once your starter is at peak, bubbly, and doubled in size you will make your dough. My starter takes about 5-6 hours. This is going to vary depending on the temperature of your home.
 
-For your dough you can use a ceramic, Pyrex, glass, or stainless steel bowl. I like to use a Pyrex bowl and a glass lid.
+For your dough you can use a ceramic, Pyrex, glass, or stainless steel bowl. I like to use a [Pyrex bowl](https://amzn.to/40cm2TA) and a glass lid.
 
-Measure and mix 90g starter, 270g filtered water, and 1 tablespoon honey in a mixing bowl. Make sure that the starter is well mixed, this step is crucial for an even crumb. Feed your leftover starter and put in fridge or counter for next use.
+Measure and mix 90g starter, 270g filtered water, and 1 tablespoon [honey](https://amzn.to/3HgANfv) in a mixing bowl. Make sure that the starter is well mixed, this step is crucial for an even crumb. Feed your leftover starter and put in fridge or counter for next use.
 
-Measure 450g bread flour, add to bowl and mix. The dough will be sticky and shaggy. Measure 2 tbsp butter and cut into cubes over the bowl. Use your hands to knead and incorporate the butter. It will soften and combine as you mix. Knead until all butter if fully dissolved.
+Measure 450g [bread flour](https://amzn.to/3HldQHP), add to bowl and mix. The dough will be sticky and shaggy. Measure 2 tbsp [butter](https://amzn.to/3HgANMx) and cut into cubes over the bowl. Use your hands to knead and incorporate the butter. It will soften and combine as you mix. Knead until all butter if fully dissolved.
 
-Measure 10g salt and either pour over the top or wait 30 minutes and add to mixture. I prefer over the top, the salt will start sweating and makes it easier to mix into the dough.
+Measure 10g [salt](https://amzn.to/3kJMDqI) and either pour over the top or wait 30 minutes and add to mixture. I prefer over the top, the salt will start sweating and makes it easier to mix into the dough.
 
 Cover bowl with lid or damp towel and let sit for 1 hour. This stage is called autolyse.
 
@@ -89,7 +89,7 @@ Cover bowl with lid or damp towel and let sit for 1 hour. This stage is called a
 
 After 1 hour, mix the salt into the dough. Don't try to over knead it, just until you don't feel salt on your fingers when you touch the dough.
 
-At this time, get the temperature of your dough. It will be a little warmer since you have just worked it with your hands.
+At this time, get the temperature of your dough with a [thermometer](https://amzn.to/3Hnvlaw). It will be a little warmer since you have just worked it with your hands.
 
 Cover dough and let sit for 30 mins.
 
@@ -127,7 +127,7 @@ Lightly flour your counter and scrape your dough out of the bowl. Let sit for 15
 
 ### 7. Proof (second rise)
 
-Grease the inside of your loaf pan and set it at the top of your dough. Gently shape the dough into a rectangle and pull the dough to the width of your loaf pan. Roll up the dough and place seam side down in loaf pan. Cover with a damp dish towel and let sit for about 4 hours.
+Grease the inside of your [loaf pan](https://amzn.to/3Hnxhjc) and set it at the top of your dough. Gently shape the dough into a rectangle and pull the dough to the width of your loaf pan. Roll up the dough and place seam side down in loaf pan. Cover with a damp dish towel and let sit for about 4 hours.
 
 ![Shape](/images/sandwich_shape.jpg)
 

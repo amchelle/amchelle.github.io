@@ -32,6 +32,7 @@ recipe:
     * [Scale](https://amzn.to/3RjG2iT)
     * [Glass jar with lid](https://amzn.to/3RgJquU)
     * [Mixing bowl](https://amzn.to/40cm2TA)
+    * [Instant Read Kitchen Thermometer](https://amzn.to/3Hnvlaw)
     * [Bench knife, plastic scraper](https://amzn.to/3Y3PE3w)
     * [Shower cap](https://amzn.to/3WNNEeD), plastic bag, or damp [dish towel](https://amzn.to/3JpT78w)
     * Knife or [bread lame](https://amzn.to/3Y3PE3w)
@@ -103,7 +104,7 @@ Cover bowl with lid or damp towel and let sit for 30 minutes. This stage is call
 
 After 30 minutes, mix the salt into the dough. Don't try to over knead it, just until you don't feel salt on your fingers when you touch the dough.
 
-At this time, get the temperature of your dough. It will be a little warmer since you have just worked it with your hands.
+At this time, get the temperature of your dough with a [thermometer](https://amzn.to/3Hnvlaw). It will be a little warmer since you have just worked it with your hands.
 
 Cover dough and let sit for 30 mins.
 
