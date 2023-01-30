@@ -11,31 +11,32 @@ recipe:
   prep: 24 hours
   cook: 38 minutes
   ingredients_markdown: |-
+
     **Starter (Leaven)**
 
-    * 10 g rye flour
-    * 70 g all-purpose flour
+    * 10 g [rye flour](https://amzn.to/3JpUJz6)
+    * 70 g [all-purpose flour](https://amzn.to/3WPOQOR)
     * 80 g starter
     * 80 g filtered water
 
     **Dough**
 
-    * 430 g bread flour
+    * 430 g [bread flour](https://amzn.to/3HldQHP)
     * 300 g filter water
     * 65 g bubbly starter
-    * 10 g salt
+    * 10 g [salt](https://amzn.to/3kJMDqI)
     * (Optional rice flour for dusting)
 
     **Tools**
 
-    * Scale
-    * Glass jar with lid
-    * Mixing bowl
-    * Bench knife, plastic scraper
-    * Shower cap, plastic bag, or damp dish towel
-    * Knife or bread lame
-    * Dutch oven & parchment paper or Challenger Bread Pan
-    * Banneton or bowl with dish towel
+    * [Scale](https://amzn.to/3RjG2iT)
+    * [Glass jar with lid](https://amzn.to/3RgJquU)
+    * [Mixing bowl](https://amzn.to/40cm2TA)
+    * [Bench knife, plastic scraper](https://amzn.to/3Y3PE3w)
+    * [Shower cap](https://amzn.to/3WNNEeD), plastic bag, or damp [dish towel](https://amzn.to/3JpT78w)
+    * Knife or [bread lame](https://amzn.to/3Y3PE3w)
+    * [Dutch oven](https://amzn.to/3Hgj5sx) & parchment paper or Challenger Bread Pan
+    * [Banneton](https://amzn.to/3Y3PE3w) or bowl with dish towel
 
   directions_markdown: |-
     **Starter**
@@ -84,13 +85,13 @@ I recommend a 100% hydration starter for this receipe. This means equal parts wa
 
 Once your starter is at peak, bubbly, and doubled in size you will make your dough. My starter takes about 5-6 hours. This is going to vary depending on the temperature of your home.
 
-For your dough you can use a ceramic, Pyrex, glass, or stainless steel bowl. I like to use a Pyrex bowl and a glass lid.
+For your dough you can use a ceramic, Pyrex, glass, or stainless steel bowl. I like to use a [Pyrex bowl](https://amzn.to/40cm2TA) and a glass lid.
 
 Measure and mix 65g starter and 300g filtered water in a mixing bowl. Make sure that the starter is well mixed, this step is crucial for an even crumb. Feed your leftover starter and put in fridge or counter for next use.
 
-Measure 430g bread flour, add to bowl and mix. The dough will be sticky and shaggy.
+Measure 430g [bread flour](https://amzn.to/3HldQHP), add to bowl and mix. The dough will be sticky and shaggy.
 
-Measure 10g salt and either pour over the top or wait 30 minutes and add to mixture. I prefer over the top, the salt will start sweating and makes it easier to mix into the dough.
+Measure 10g [salt](https://amzn.to/3kJMDqI) and either pour over the top or wait 30 minutes and add to mixture. I prefer over the top, the salt will start sweating and makes it easier to mix into the dough.
 
 Cover bowl with lid or damp towel and let sit for 30 minutes. This stage is called autolyse.
 
@@ -130,11 +131,11 @@ The is the main and most important step. Leave your dough covered on the counter
 
 After your 7 hours is up, your dough should look smooth and have both large and small bubbles on the surface. It should have risen about 30%.
 
-Lightly flour your counter and scrape your dough out of the bowl. Get a bench scraper or use your hands to perform a letter fold.
+Lightly flour your counter and scrape your dough out of the bowl. Get a [bench knife](https://amzn.to/3Y3PE3w) or use your hands to perform a letter fold.
 
 Fold the left side into the center, then the right side into the center. Take the bottom and fold to the top and complete the fold by folding the top side to the bottom towards you.
 
-Use the bench scraper or your hands to flip the dough. With the bench scraper or the palm of your hand gently form the dough into a circle with smooth, sweeping movements around and slightly in making the dough tighten.
+Use the bench knife or your hands to flip the dough. With the bench knife or the palm of your hand gently form the dough into a circle with smooth, sweeping movements around and slightly in making the dough tighten.
 
 Let sit for 20 minutes.
 
@@ -146,13 +147,13 @@ Let sit for 20 minutes.
 
 After 20 minutes, your dough should be more relaxed. Scrape any flour away from the counter next to the dough. You don't want a lot of flour at this stage or the dough won't stick together after shaping.
 
-Use the bench scraper or your hands to flip the dough onto the clear counter. Perform another letter fold and shape into a ball. This will create a boule.
+Use the bench knife or your hands to flip the dough onto the clear counter. Perform another letter fold and shape into a ball. This will create a boule.
 
-Get your banneton basket or bowl and add a liner. If you don't have a liner use a cotton dish towel and lightly mist it with water. Sprinkle rice flour or all-purpose flour onto the liner. Make sure it is all up the sides, you don't want your dough to stick.
+Get your [banneton basket](https://amzn.to/3Y3PE3w) or bowl and add a liner. If you don't have a liner use a cotton dish towel and lightly mist it with water. Sprinkle rice flour or all-purpose flour onto the liner. Make sure it is all up the sides, you don't want your dough to stick.
 
 Flip your shaped dough and gently place it into your bowl or banneton. Pinch together any parts of the dough where it is separting. This will make for a smooth bottom crust.
 
-Cover with a plastic shower cap, ziploc bag, or damp towel and place in the fridge for 12-13 hours.
+Cover with a plastic [shower cap](https://amzn.to/3WNNEeD), ziploc bag, or damp towel and place in the fridge for 12-13 hours.
 
 |                                     |                                     |
 | ----------------------------------- | ----------------------------------- |
@@ -164,7 +165,7 @@ Preheat your oven to 500 degrees with the pot and lid in the oven. If you are us
 
 When your oven is preheated, you can score the dough and prepare for bake. Score the dough with a classic crescent, cross, or slash down the middle. You can use a knife or a bread lame to perform the score.
 
-For a Dutch oven:
+For a [Dutch oven](https://amzn.to/3Hgj5sx):
 
 Place parchment paper on your counter and flip dough out of the bowl or banneton. Once scored, carry the dough into the preheated pot, mist with water, and cover with lid in oven.
 
