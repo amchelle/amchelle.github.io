@@ -45,7 +45,7 @@ recipe:
     1. **Feed starter.** Mix 10g rye flour, 80g all-purpose flour, 80g starter, 80g filtered water.
 
     **Dough**
-    1. **Make dough and autolyse.** Measure and mix water and starter in a mixing bowl until fully combined. Add bread flour and salt. Dough will be shaggy. Cut softened butter into cubes and work into dough until dissolved and fully incorporated. Cover with lid or damp towl and let sit for 1 hour.
+    1. **Make dough and autolyse.** Measure and mix water and starter in a mixing bowl until fully combined. Add bread flour and salt. Dough will be shaggy. Cut softened butter into cubes and work into dough until dissolved and fully incorporated. Cover with lid or damp towel and let sit for 1 hour.
     2. **Soak Raisins.** Measure raisins and soak in water for 1 hour.
     3. **Add raisins.** Drain the raisins and add to dough. Lightly knead until well dispersed. Let sit covered for 30 minutes.
     3. **Stretch and fold.** Perform a stretch and fold and let sit covered for 30 minutes. Repeat step up to one or two more times.
