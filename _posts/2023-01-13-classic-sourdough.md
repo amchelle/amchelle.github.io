@@ -177,3 +177,5 @@ Turn oven down to 450 degrees and bake covered for 20 minutes.
 ![Score](/images/classic_pan.jpg)
 
 After 20 minutes, remove the lid from the dutch oven and bake for 18-20 minutes until brown, not burnt. If you are using the Challenger pan, take the lid off and place the base onto the inverted lid and put back in oven. If you are using a Dutch oven, you might need to push baking time to 25-30 minutes for extra browning depending on your oven.
+
+![Crumb](/images/classic_crumb.PNG)

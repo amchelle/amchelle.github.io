@@ -62,9 +62,9 @@ This is one of my favorite sourdough recipes! The sweet cinnamom is heavenly and
 
 - **1:00 pm:** feed starter
 - **7:00 pm:** mix dough and autolyse
-- **7:30 pm:** add raisins
-- **8:00 pm:** stretch and fold
+- **8:00 pm:** add raisins
 - **8:30 pm:** stretch and fold
+- **9:00 pm:** stretch and fold
 - **8:00 am(next day):** shape and second rise (proof)
 - **12:00 pm:** bake
 
