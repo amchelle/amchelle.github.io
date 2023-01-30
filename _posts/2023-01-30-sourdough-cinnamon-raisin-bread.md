@@ -36,7 +36,7 @@ recipe:
     * Scale
     * Mixing bowl
     * plastic scraper
-    * Dishtowel
+    * Dish towel
     * Loaf pan
 
   directions_markdown: |-
@@ -52,7 +52,7 @@ recipe:
     4. **Bulk fermentation.** Leave dough covered for ~12-13 hours (overnight) after your start step 2.
     5. **Shape.** Grease the inside of loaf pan. Gently shape dough into a rectangle and pull to the width of your pan. 
     6. **Fill & Roll.** Combine cinnamon and brown sugar in a bowl and sprinkle evenly over dough. Roll up dough and place seam side down in loaf pan. 
-    7. **Proof.** Cover with damp dishtowel and let sit for ~4 hours.
+    7. **Proof.** Cover with damp dish towel and let sit for ~4 hours.
     6. **Bake.** Preheat oven to 400°F. Bake for 35 minutes or until golden brown. Let sit for 10 minutes and then remove from pan and let sit for at least 1 hour.
 ---
 
@@ -136,7 +136,7 @@ Take one width side and roll the dough. With each roll, gently press the edges d
 
 ### 9. Proof (second rise)
 
-Cover with a damp dishtowel and let sit for about 4 hours. The dough will have risen well above the rim of the loaf pan. If you poke the dough, it should very slowly rise back. If you don't properly proof at this stage, your finished loaf will tear on the sides and break its shape. This stage ranges anywhere from 2 to 6 hours. The number one issue with this loaf is not letting it proof long enough.
+Cover with a damp dish towel and let sit for about 4 hours. The dough will have risen well above the rim of the loaf pan. If you poke the dough, it should very slowly rise back. If you don't properly proof at this stage, your finished loaf will tear on the sides and break its shape. This stage ranges anywhere from 2 to 6 hours. The number one issue with this loaf is not letting it proof long enough.
 
 |                                            |                                          |
 | ------------------------------------------ | ---------------------------------------- | -------------------------------------- |

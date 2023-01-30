@@ -32,10 +32,10 @@ recipe:
     * Glass jar with lid
     * Mixing bowl
     * Bench knife, plastic scraper
-    * Shower cap, plastic bag, or damp dishtowel
+    * Shower cap, plastic bag, or damp dish towel
     * Knife or bread lame
     * Dutch oven & parchment paper or Challenger Bread Pan
-    * Banneton or bowl with dishtowel
+    * Banneton or bowl with dish towel
 
   directions_markdown: |-
     **Starter**
@@ -48,7 +48,7 @@ recipe:
     3. **Stretch and fold.** Perform a stretch and fold and let sit covered for 30 minutes. Repeat step up to two more times.
     4. **Bulk fermentation.** Leave dough covered for ~7 hours after you start step 2.
     5. **Shape.** Flour countertop and scrape dough out of bowl. Perform a letter fold and let sit for 20 minutes.
-    6. **Proof.** Perform another letter fold and place into banneton basket or bowl with floured dishtowel. Cover with plastic shower cap or damp towel, put in fridge, and let sit overnight for 12-13 hours.
+    6. **Proof.** Perform another letter fold and place into banneton basket or bowl with floured dish towel. Cover with plastic shower cap or damp towel, put in fridge, and let sit overnight for 12-13 hours.
     7. **Preheat.** Preheat oven to 500°F with pot and lid in oven for 30-1hr depending on pot. 
     8. **Score.** Take dough out of fridge, flip onto parchment paper (for Dutch oven) or straight onto Challenger pan. Score dough. Add two ice cubes to Challenger pan or mist dough in Dutch oven.
     9. **Bake.** Turn oven down to 450°F and bake covered for 20 minutes. Remove lid and bake for another 18-20 minutes until brown. If you are using the Challenger pan, remove lid and place the base onto the inverted lid. If you are using a Dutch oven, you might need to push baking time to 25-30 minutes for extra browning depending on your oven.
@@ -148,7 +148,7 @@ After 20 minutes, your dough should be more relaxed. Scrape any flour away from 
 
 Use the bench scraper or your hands to flip the dough onto the clear counter. Perform another letter fold and shape into a ball. This will create a boule.
 
-Get your banneton basket or bowl and add a liner. If you don't have a liner use a cotton dishtowel and lightly mist it with water. Sprinkle rice flour or all-purpose flour onto the liner. Make sure it is all up the sides, you don't want your dough to stick.
+Get your banneton basket or bowl and add a liner. If you don't have a liner use a cotton dish towel and lightly mist it with water. Sprinkle rice flour or all-purpose flour onto the liner. Make sure it is all up the sides, you don't want your dough to stick.
 
 Flip your shaped dough and gently place it into your bowl or banneton. Pinch together any parts of the dough where it is separting. This will make for a smooth bottom crust.
 

@@ -31,7 +31,7 @@ recipe:
     * Scale
     * Mixing bowl
     * plastic scraper
-    * Dishtowel
+    * Dish towel
     * Loaf pan
 
   directions_markdown: |-
@@ -44,7 +44,7 @@ recipe:
     2. **Autolyse.** Mix salt into dough and let sit for 30 minutes.
     3. **Stretch and fold.** Perform a stretch and fold and let sit covered for 30 minutes. Repeat step up to two more times.
     4. **Bulk fermentation.** Leave dough covered for ~12-13 hours (overnight) after your start step 2.
-    5. **Shape.** Grease the inside of loaf pan. Gently shape dough into a rectangle and pull to the width of your pan. Roll up dough and place seam side down. Cover with damp dishtowel and let sit for 2 hours.
+    5. **Shape.** Grease the inside of loaf pan. Gently shape dough into a rectangle and pull to the width of your pan. Roll up dough and place seam side down. Cover with damp dish towel and let sit for 2 hours.
     6. **Bake.** Preheat oven to 400°F. Bake for 35 minutes or until golden brown. Let sit for 10 minutes and then remove from pan and let sit for at least 1 hour.
 ---
 
@@ -127,7 +127,7 @@ Lightly flour your counter and scrape your dough out of the bowl. Let sit for 15
 
 ### 7. Proof (second rise)
 
-Grease the inside of your loaf pan and set it at the top of your dough. Gently shape the dough into a rectangle and pull the dough to the width of your loaf pan. Roll up the dough and place seam side down in loaf pan. Cover with a damp dishtowel and let sit for about 4 hours.
+Grease the inside of your loaf pan and set it at the top of your dough. Gently shape the dough into a rectangle and pull the dough to the width of your loaf pan. Roll up the dough and place seam side down in loaf pan. Cover with a damp dish towel and let sit for about 4 hours.
 
 ![Shape](/images/sandwich_shape.jpg)
 
