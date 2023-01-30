@@ -112,7 +112,7 @@ Cover dough and let sit for 30 mins.
 
 After 30 mins, your dough should be a little more relaxed and glossy looking.
 
-Wet your hands, pinch and graby one side of the dough with both hands and pull up. Stretch until you feel some resistance and fold into the center of the dough. Rotate the bowl 90 degrees and repeat the stretch and fold. Continue until you have completed all four sides. You will feel the dough tighten as you go around.
+Wet your hands, pinch and grab one side of the dough with both hands and pull up. Stretch until you feel some resistance and fold into the center of the dough. Rotate the bowl 90 degrees and repeat the stretch and fold. Continue until you have completed all four sides. You will feel the dough tighten as you go around.
 
 Take the temperature of the dough, you should notice how the thermometor comes out cleaner than before.
 
