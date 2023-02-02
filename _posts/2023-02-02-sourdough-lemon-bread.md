@@ -5,7 +5,7 @@ categories:
   - Discard
   - Sweets
 featured_image: /images/lemon_final.jpg
-image: /images/lemon_top.jpg
+image: /images/lemon_final.jpg
 recipe:
   servings: 1 lemon bread loaf
   prep: 15 minutes
