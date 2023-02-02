@@ -13,14 +13,14 @@ recipe:
     **Banana Bread**
 
     * 4 overripe [bananas](https://amzn.to/3Y99lqF)
-    * 1/2 cup melted [butter](https://amzn.to/3HgANMx)
+    * 1/4 cup [brown sugar](https://amzn.to/3Y5l2yI)
+    * 1/2 cup [butter](https://amzn.to/3HgANMx) (room temp)
     * 1/4 cup [milk](https://amzn.to/3DtygNI)
     * 2 [eggs](https://amzn.to/3wGDwtD)
     * 1 tsp [vanilla](https://amzn.to/3RiEkOU)
     * 90 g sourdough starter discard
     * 1/4 tsp [nutmeg](https://amzn.to/3Hk3LLl)
     * 1/2 tsp [cinnamon](https://amzn.to/3Jqpwf4)
-    * 1/4 cup [brown sugar](https://amzn.to/3Y5l2yI)
     * 1 tsp [baking soda](https://amzn.to/3jooB4d)
     * 4 g [salt](https://amzn.to/3kJMDqI)
     * 250 g [all-purpose flour](https://amzn.to/3WPOQOR)
@@ -36,9 +36,9 @@ recipe:
 
   directions_markdown: |-
     1. **Preheat oven.** Preheat oven to 350°F.
-    2. **Mash bananas.** In a mixing bowl mash bananas with a fork.
-    4. **Add wet ingredients.** Measure and mix milk, eggs, vanilla, and sourdough starter. Melt butter and add to bowl while mixing.
-    4. **Add dry ingredients.** Measure and add nutmeg, cinnamon, brown sugar, baking soda, salt, and flour. Use electric mixer on low or whisk to blend.
+    2. **Cream sugar & butter.** In a mixing bowl cream sugar and butter until smooth.
+    4. **Add wet ingredients.** Mash bananas with a fork and add to bowl. Measure and mix milk, eggs, vanilla, and sourdough starter. 
+    4. **Add dry ingredients.** Measure and add nutmeg, cinnamon, baking soda, salt, and flour. Use electric mixer on low or whisk to blend.
     5. **Add to loaf pan.** Pour mixture into greased loaf pan.
     6. **Bake.** Bake for 55 minutes or until fork comes out mostly clean. Let sit for 10 minutes and then remove from pan.
 ---
@@ -53,21 +53,19 @@ Add nuts, raisins, or chocolate chips to your liking. This recipe has very littl
 
 Preheat oven to 350 degrees
 
-### 2. Mash bananas
+### 2. Cream sugar & butter
 
-Mash 4 bananas in a mixing bowl with a fork.
-
-![Bananas](/images/banana_mash.jpg)
+In a mixing bowl cream 1/4 cup brown sugar and 1/2 cup butter until smooth.
 
 ### 3. Add wet ingredients
 
-Measure 1/4 cup milk, 1 tsp vanilla, 90g sourdough starter and add to bowl. Crack two eggs and mix until smooth. Melt butter in microwave, stovetop, or oven and pour into bowl while mixing.
+Mash bananas with a fork and add to bowl. Measure 1/4 cup milk, 1 tsp vanilla, 90g sourdough starter and add to bowl. Crack two eggs and mix until smooth.
 
-![Mix Wet](/images/banana_wet.jpg)
+![Bananas](/images/banana_mash.jpg)
 
 ### 4. Add dry ingredients
 
-Measure 1/4 tsp nutmeg, 1/2 tsp cinnamon, 1/4 cup brown sugar, 1 tsp baking soda, 4 g salt, and 250 g all-purpose flour. Add to bowl and mix on low until fully combined.
+Measure 1/4 tsp nutmeg, 1/2 tsp cinnamon, 1 tsp baking soda, 4 g salt, and 250 g all-purpose flour in a separate bowl. Add to wet mixture and mix on low until fully combined.
 
 ![Mix Dry](/images/banana_dry.jpg)
 
