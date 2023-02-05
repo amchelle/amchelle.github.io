@@ -134,11 +134,13 @@ After your 7 hours is up, your dough should look smooth and have both large and 
 
 Lightly flour your counter and scrape your dough out of the bowl. Get a [bench knife](https://amzn.to/3Y3PE3w) or use your hands to perform a letter fold.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mfdem4TbhZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Fold the left side into the center, then the right side into the center. Take the bottom and fold to the top and complete the fold by folding the top side to the bottom towards you.
 
 Use the bench knife or your hands to flip the dough. With the bench knife or the palm of your hand gently form the dough into a circle with smooth, sweeping movements around and slightly in making the dough tighten.
 
-Let sit for 20 minutes.
+Let sit for 10 minutes.
 
 |                                     |                                            |
 | ----------------------------------- | ------------------------------------------ |
@@ -146,7 +148,7 @@ Let sit for 20 minutes.
 
 ### 7. Proof
 
-After 20 minutes, your dough should be more relaxed. Scrape any flour away from the counter next to the dough. You don't want a lot of flour at this stage or the dough won't stick together after shaping.
+After 10 minutes, your dough should be more relaxed. Scrape any flour away from the counter next to the dough. You don't want a lot of flour at this stage or the dough won't stick together after shaping.
 
 Use the bench knife or your hands to flip the dough onto the clear counter. Perform another letter fold and shape into a ball. This will create a boule.
 
