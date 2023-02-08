@@ -74,6 +74,8 @@ I have tested different ingredient combinations, temperature and time fluctuatio
 
 # Step by Step Instructions
 
+![Final Sourdough Bak](/images/classic_final.jpg)
+
 ### 1. Feed your starter
 
 I recommend a 100% hydration starter for this receipe. This means equal parts water, flour, and beginning starter, a 1:1:1 ratio. I feed mine 10g rye, 70g all-purpose, 80g water, 80g starter.
@@ -150,7 +152,9 @@ Let sit for 10 minutes.
 
 After 10 minutes, your dough should be more relaxed. Scrape any flour away from the counter next to the dough. You don't want a lot of flour at this stage or the dough won't stick together after shaping.
 
-Use the bench knife or your hands to flip the dough onto the clear counter. Perform another letter fold and shape into a ball. This will create a boule.
+Use the bench knife or your hands to flip the dough onto the clear counter. Perform another letter fold and shape into a ball for a boule or shape into a bâtard for an oval shape. Keep in mind that for the bâtard you will need an oval banneton or oval bowl to keep this shape throughout the proof.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WXQ7XrIMGEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Get your [banneton basket](https://amzn.to/3Y3PE3w) or bowl and add a liner. If you don't have a liner use a cotton dish towel and lightly mist it with water. Sprinkle rice flour or all-purpose flour onto the liner. Make sure it is all up the sides, you don't want your dough to stick.
 
@@ -182,4 +186,6 @@ Turn oven down to 450 degrees and bake covered for 20 minutes.
 
 After 20 minutes, remove the lid from the dutch oven and bake for 18-20 minutes until brown, not burnt. If you are using the Challenger pan, take the lid off and place the base onto the inverted lid and put back in oven. If you are using a Dutch oven, you might need to push baking time to 25-30 minutes for extra browning depending on your oven.
 
-![Crumb](/images/classic_crumb.PNG)
+|                                         |                                               |
+| --------------------------------------- | --------------------------------------------- |
+| ![Crumbshot](/images/classic_crumb.jpg) | ![Sourdough Slice](/images/classic_slice.jpg) |
