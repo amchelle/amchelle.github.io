@@ -2,7 +2,7 @@
 date: 2023-01-10
 title: Sourdough Starter
 categories:
-  - Start your Sourdough Journey
+  - Starter
 featured_image: /images/starter1.jpg
 image: /images/starter1.jpg
 recipe:
