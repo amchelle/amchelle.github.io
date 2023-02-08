@@ -41,4 +41,4 @@ Some flours are not able to withstand high hydration. Whole wheat flour is signi
 
 Another factor is your environment. If you live in humidity, you won't need as much water. Your dough and starter will pull moisture from the air. Conversely, if you live in a dry area you may need to up the water level.
 
-I encourage you to start playing around with different hydration levels and see what works best for you and your sourdough!
+Start with my [classic sourdough recipe](https://www.sourdoughathome.com/breads/2023/01/13/classic-sourdough/) which has a hydration level of 70% and play around with different hydration levels to see what works best for you and your sourdough!
