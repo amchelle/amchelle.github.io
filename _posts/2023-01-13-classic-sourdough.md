@@ -49,8 +49,8 @@ recipe:
     2. **Autolyse.** Mix salt into dough and let sit for 30 minutes.
     3. **Stretch and fold.** Perform a stretch and fold and let sit covered for 30 minutes. Repeat step up to two more times.
     4. **Bulk fermentation.** Leave dough covered for ~7 hours after you start step 2.
-    5. **Shape.** Flour countertop and scrape dough out of bowl. Perform a letter fold and let sit for 20 minutes.
-    6. **Proof.** Perform another letter fold and place into banneton basket or bowl with floured dish towel. Cover with plastic shower cap or damp towel, put in fridge, and let sit overnight for 12-13 hours.
+    5. **Shape.** Flour countertop and scrape dough out of bowl. Perform a letter fold and let sit for 10 minutes.
+    6. **Proof.** Shape into boule or bâtard and place into banneton basket or bowl with floured dish towel. Cover with plastic shower cap or damp towel, put in fridge, and let sit overnight for 12-13 hours.
     7. **Preheat.** Preheat oven to 500°F with pot and lid in oven for 30-1hr depending on pot. 
     8. **Score.** Take dough out of fridge, flip onto parchment paper (for Dutch oven) or straight onto Challenger pan. Score dough. Add two ice cubes to Challenger pan or mist dough in Dutch oven.
     9. **Bake.** Turn oven down to 450°F and bake covered for 20 minutes. Remove lid and bake for another 18-20 minutes until brown. If you are using the Challenger pan, remove lid and place the base onto the inverted lid. If you are using a Dutch oven, you might need to push baking time to 25-30 minutes for extra browning depending on your oven.
