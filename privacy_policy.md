@@ -70,7 +70,7 @@ The information we collect includes:
 
 - Location Data. We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our site or other websites. Google's use of advertising cookies enables it and its partners to serve ads based on a user's visit to our site and/or other sites on the internet. Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads).
+Third party vendors, including Google, use cookies to serve ads based on your prior visits to our site or other websites. Google's use of advertising cookies enables it and its partners to serve ads based on a your visit to our site and/or other sites on the internet. You may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads).
 
 ### 2. HOW DO WE PROCESS YOUR INFORMATION?
 
