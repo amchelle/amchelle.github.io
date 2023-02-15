@@ -24,10 +24,6 @@ When you visit, use, or navigate our Services, we may process personal informati
 
 We do not process sensitive personal information.
 
-**Do we receive any information from third parties?**
-
-We do not receive any information from third parties.
-
 **How do we process your information?**
 
 We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so.
@@ -73,6 +69,8 @@ The information we collect includes:
 - Device Data. We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 
 - Location Data. We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our site or other websites. Google's use of advertising cookies enables it and its partners to serve ads based on a user's visit to our site and/or other sites on the internet. Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads).
 
 ### 2. HOW DO WE PROCESS YOUR INFORMATION?
 
@@ -154,7 +152,7 @@ The Services may link to third-party websites, online services, or mobile applic
 
 In Short: We may use cookies and other tracking technologies to collect and store your information.
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. .
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information.
 
 ### 7. HOW LONG DO WE KEEP YOUR INFORMATION?
 
