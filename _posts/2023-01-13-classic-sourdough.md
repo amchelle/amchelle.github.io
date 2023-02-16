@@ -36,7 +36,7 @@ recipe:
     * [Bench knife, plastic scraper](https://amzn.to/3Y3PE3w)
     * [Shower cap](https://amzn.to/3WNNEeD), plastic bag, or damp [dish towel](https://amzn.to/3JpT78w)
     * Knife or [bread lame](https://amzn.to/3Y3PE3w)
-    * [Dutch oven](https://amzn.to/3Hgj5sx) & parchment paper or Challenger Bread Pan
+    * [Dutch oven](https://amzn.to/3Hgj5sx) & parchment paper or [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome)
     * [Banneton](https://amzn.to/3Y3PE3w) or bowl with dish towel
 
   directions_markdown: |-
@@ -176,7 +176,7 @@ For a [Dutch oven](https://amzn.to/3Hgj5sx):
 
 Place parchment paper on your counter and flip dough out of the bowl or banneton. Once scored, carry the dough into the preheated pot, mist with water, and cover with lid in oven.
 
-For Challenger Bread Pan:
+For [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome):
 
 Fip dough straight onto the preheated base pan. Add two ice cubes, cover with lid, and place in oven.
 
