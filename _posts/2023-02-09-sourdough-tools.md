@@ -78,6 +78,6 @@ I recommend and use the [Lodge Dutch Oven](https://amzn.to/3HQujEm). It is a che
 
 ![Dutch Oven](/images/tools_dutch.jpg)
 
-If you want to take your bread to the next level, then hands down get the Challenger Bread Pan. The pan was invented by a sourdough baker and it the optimal vessel for sourdough baking. It has great space, excellent steam, and you can get that gorgeous dark crispy crust that I just can't get with the dutch oven. It is on the pricy side and is really heavy, but if you bake a lot it is worth the investment.
+If you want to take your bread to the next level, then hands down get the [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome). The pan was invented by a sourdough baker and it the optimal vessel for sourdough baking. It has great space, excellent steam, and you can get that gorgeous dark crispy crust that I just can't get with the dutch oven. It is on the pricy side and is really heavy, but if you bake a lot it is worth the investment.
 
 ![Challenger Bread Pan](/images/tools_challenger.jpg)
