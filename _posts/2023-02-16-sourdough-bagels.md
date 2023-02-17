@@ -85,7 +85,7 @@ Most bagels are boiled in Lye, but who has that or wants to do that home? Not me
 
 Another option, and the one used in this recipe, is the honey water boil. Honey adds a nice sweet flavor which is ideal for the cinnamon raisin and also leaves a nice golden brown finish. You can swap this out for brown sugar or barley malt syrup and receive similar results.
 
-In the picutre below you can see the boil mixture comparison. From top to bottom is plain water, honey water, baking soda water. In addition, the top bagel is shaped with the rope and curl method while the other two are shaped with the poke method.
+In the picture below you can see the boil mixture comparison. From top to bottom is plain water, honey water, baking soda water. In addition, the top bagel is shaped with the rope and curl method while the other two are shaped with the poke method.
 
 ![Bagel Boil Type Comparison](/images/bagel_comparison.jpg)
 
