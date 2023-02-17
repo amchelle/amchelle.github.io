@@ -58,10 +58,10 @@ recipe:
     3. **Knead.** Knead dough on counter for 1-5 minutes. Place back in bowl and mix raisins into dough.
     4. **Bulk Fermentation.** Leave dough covered for about 11-12 hours after you start step 1. 
     5. **Divide Dough.** Scrape dough out of bowl onto counter. Shape into a rectangle log. Use a bench knife to divide into 6 equal sections.
-    6. **Shape.** Shape each piece into a mini boule. Take each boule and either poke a hole through the middle and gently use your fingers to increase the circumference or role the dough into a rope and then attach both ends to create a circle.
+    6. **Shape.** Shape each piece into a mini boule. Take each boule and either poke a hole through the middle and gently use your fingers to increase the circumference or roll the dough into a rope and then attach both ends to create a circle.
     7. **Proof.** Place shaped bagels on a parchment lined cookie sheet or oiled plate and cover with damp towel.
     8. **Preheat Oven & Boil Water.** Preheat oven to 450°F. Add 4 cups water to a large cooking pot and boil. Once boiling add 3 tablespoons honey and stir well.
-    9. **Boil Bagels.** Using a slotted spoon or spatula transfer bagels to pot and boil for 40 seconds each side, starting with plump side down in water. Transfer to parchment lined cookie sheet once finished boiling.
+    9. **Boil Bagels.** Using a slotted spoon or spatula, transfer bagels to pot and boil for 40 seconds each side, starting with plump side down in water. Transfer to parchment lined cookie sheet once finished boiling.
     10. **Bake.** Bake for 20 minutes in preheated oven.
 ---
 
@@ -123,9 +123,11 @@ After making your dough it will be very stiff. Cover your bowl(s) with a damp to
 
 ### 4. Knead
 
-Now is time for some hard work! Take your dough out of the bowl onto a clean counter and begin kneading the dough. Working with both hands in unison push the palms of your hands into the dough and slightly push, stretching the dough. Use your fingers to pull the the dough back towards you and repeat pushing with your palms. Massage the dough in whatever movements seem natural as you continue to press and manipulate the dough. You can do this in a stand mixer for about half the time, but bagel dough is so dense that it isn't the best. I also find it very soothing to feel and work with the dough by hand.
+Now is time for some hard work! Take your dough out of the bowl onto a clean counter and begin kneading the dough. Working with both hands in unison, push the palms of your hands into the dough and slightly push, stretching the dough. Use your fingers to pull the the dough back towards you and repeat pushing with your palms. Massage the dough in whatever movements seem natural as you continue to press and manipulate the dough. You can do this in a stand mixer for about half the time, but bagel dough is so dense that it isn't the best. I also find it very soothing to feel and work with the dough by hand.
 
 The reason we knead is to develop the gluten strands in our bagel dough. This helps trap air and let the dough rise properly. It also makes sure that all the flour is mixed in. You'll notice, before you knead, tiny clumps of flour that haven't fully blended. If we didn't knead this would limit the rise, texture, and taste of our bagels.
+
+If you are making cinnamon raisin bagels, then drain your soaked raisins and add to the dough. Keep working them in until the dough isn't wet looking and feeling. Put back into bowl and poke any raisins that are popping out of the surface.
 
 ![Knead Bagels](/images/bagels_knead.jpg)
 
