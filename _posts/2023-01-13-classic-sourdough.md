@@ -178,7 +178,7 @@ Place parchment paper on your counter and flip dough out of the bowl or banneton
 
 For [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome):
 
-Fip dough straight onto the preheated base pan. Add two ice cubes, cover with lid, and place in oven.
+Flip dough straight onto the preheated base pan. Add two ice cubes, cover with lid, and place in oven.
 
 Turn oven down to 450 degrees and bake covered for 20 minutes.
 
