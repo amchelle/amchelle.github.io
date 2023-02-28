@@ -74,7 +74,7 @@ I have tested different ingredient combinations, temperature and time fluctuatio
 
 # Step by Step Instructions
 
-![Final Sourdough Bak](/images/classic_final.jpg)
+![Final Sourdough Bake](/images/classic_final.jpg)
 
 ### 1. Feed your starter
 

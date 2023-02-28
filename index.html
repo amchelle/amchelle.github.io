@@ -4,7 +4,7 @@ image: /images/logo.png
 ---
 
 <section class="posts">
-  {% for post in paginator.posts %} {% if post.pinned %}
+  {% for post in site.posts %} {% if post.pinned %}
   <article class="post">
     {% include post-heading.html post=post %}
     <div class="image">
