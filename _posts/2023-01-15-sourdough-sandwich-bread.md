@@ -37,7 +37,7 @@ recipe:
   directions_markdown: |-
     **Starter**
 
-    1. **Feed starter.** Mix 10g rye flour, 80g all-purpose flour, 80g starter, 80g filtered water.
+    1. **Feed starter.** Mix 10g rye flour, 70g all-purpose flour, 80g starter, 80g filtered water.
 
     **Dough**
     1. **Make dough.** Measure and mix water, starter, and honey in a mixing bowl until fully combined. Add bread flour and mix. Dough will be shaggy. Cut softened butter into cubes and work into dough until dissolved and fully incorporated. Add salt to top, cover with lid or damp towel and let sit for 1 hour.

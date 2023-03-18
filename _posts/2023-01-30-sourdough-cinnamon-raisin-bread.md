@@ -13,9 +13,9 @@ recipe:
     **Starter (Leaven)**
 
     * 10 g [rye flour](https://amzn.to/3JpUJz6)
-    * 70 g [all-purpose flour](https://amzn.to/3WPOQOR)
-    * 80 g starter
-    * 80 g filtered water
+    * 50 g [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 60 g starter
+    * 60 g filtered water
 
     **Dough**
 
@@ -42,21 +42,54 @@ recipe:
   directions_markdown: |-
     **Starter**
 
-    1. **Feed starter.** Mix 10g rye flour, 80g all-purpose flour, 80g starter, 80g filtered water.
+    1. **Feed starter.** Mix 10g rye flour, 50g all-purpose flour, 60g starter, 60g filtered water.
 
     **Dough**
     1. **Make dough and autolyse.** Measure and mix water and starter in a mixing bowl until fully combined. Add bread flour and salt. Dough will be shaggy. Cut softened butter into cubes and work into dough until dissolved and fully incorporated. Cover with lid or damp towel and let sit for 1 hour.
     2. **Soak Raisins.** Measure raisins and soak in water for 1 hour.
     3. **Add raisins.** Drain the raisins and add to dough. Lightly knead until well dispersed. Let sit covered for 30 minutes.
-    3. **Stretch and fold.** Perform a stretch and fold and let sit covered for 30 minutes. Repeat step up to one or two more times.
-    4. **Bulk fermentation.** Leave dough covered for ~12-13 hours (overnight) after your start step 2.
+    3. **Stretch and fold.** Perform a stretch and fold and let sit covered for 30 minutes. Repeat step up to one or two more times (time permitting).
+    4. **Bulk fermentation.** Leave dough covered for ~12-13 hours (overnight) after your start step 1.
     5. **Shape.** Grease the inside of loaf pan. Gently shape dough into a rectangle and pull to the width of your pan. 
     6. **Fill & Roll.** Combine cinnamon and brown sugar in a bowl and sprinkle evenly over dough. Roll up dough and place seam side down in loaf pan. 
     7. **Proof.** Cover with damp dish towel and let sit for ~4 hours.
     6. **Bake.** Preheat oven to 400°F. Bake for 35 minutes or until golden brown. Let sit for 10 minutes and then remove from pan and let sit for at least 1 hour.
 ---
 
-This is one of my favorite sourdough recipes! The sweet cinnamom is heavenly and stays soft for days.
+This is one of my favorite sourdough recipes! The sweet cinnamom is heavenly and stays soft for days. Not only does it taste better than store bought, but the ingredients are better too!
+
+### Alterations
+
+- You can add the raisins when you add the cinnamon and sugar instead of in the dough mix. Reduce to a 1/4 cup unsoaked raisins. Sprinkle them on top of the cinnamon sugar filling and then roll up the dough. I tend to like the raisins in the dough since it disperses the sweetness throughout the whole loaf.
+- If you want a softer crust, brush the top of the hot baked bread with butter as soon as you take it out of the oven. I usually skip this step, but it is a nice touch.
+- For a vegan sourdough cinnamon raisin bread, remove the butter entirely. It will still be soft and fluffly, just a little bit less rich in flavor.
+- Add 1 tablespoon flour to cinnamon sugar if you don't want the juices seeping out. I personally love the taste and look of gooey sweetness coming out of the bread a little bit.
+- Replace the raisins with craisins (dried cranberries) for cinnamon craisin bread! The tartness gives the bread a nice punch of flavor. Remember to soak your craisins!
+
+### Sugar Replacements
+
+Replace the brown sugar with coconut sugar or cane, white sugar easily. Brown sugar definitely tastes the best for this bread.
+
+Honey and maple syrup are a little more difficult. When filling, sprinkle just the cinnamon on the stretched out dough, then measure your honey or maple syrup and drizzle over the dough avoiding the edges.
+
+### Sourdough cinnamon sugar bread
+
+I really like this bread when I don't have or don't want raisins. Simply take out the raisins from the dough and fill/roll with the cinnamon sugar filling to make a swirl.
+
+You can also add the cinnamon and sugar to the beginning dough when you mix. The cinnamon can be drying so I would add about 15g of water to the recipe if you are going with this method.
+
+This sourdough cinnamon sugar bread is fantastic for [French Toast](https://www.sourdoughathome.com/sweets/2023/01/26/sourdough-french-toast/) the next day!
+
+### No sugar sourdough cinnamon raisin bread
+
+Add cinnamon to main dough instead of as a filling and add 15g of water. Add your raisins after Autolyse and roll in the morning without any filling. The raisins add a subtle sweetness which complement the light cinnamon.
+
+### Tips
+
+- Make sure you soak the raisins.
+- Oil your loaf pan so you can easily get the bread out after baking.
+- Proof for at least 2 hours! Poke the top of the dough with your finger and the imprint should very slowly rise back. This is called the poke test.
+- As you roll the dough, pinch the side edges together on each roll to prevent leaking when baking.
 
 ### What are the timings?
 
@@ -72,7 +105,7 @@ This is one of my favorite sourdough recipes! The sweet cinnamom is heavenly and
 
 ### 1. Feed your starter
 
-I recommend a 100% hydration starter for this receipe. This means equal parts water, flour, and beginning starter, a 1:1:1 ratio. I feed mine 10g rye, 70g all-purpose, 80g water, 80g starter.
+I recommend a 100% hydration starter for this receipe. This means equal parts water, flour, and beginning starter, a 1:1:1 ratio. I feed mine 10g rye, 50g all-purpose, 60g water, 60g starter.
 
 ### 2. Mix your dough and autolyse
 
