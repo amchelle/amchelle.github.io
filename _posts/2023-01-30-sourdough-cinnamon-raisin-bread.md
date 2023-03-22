@@ -3,8 +3,8 @@ date: 2023-01-30
 title: Sourdough Cinnamon Raisin Bread
 categories:
   - Breads
-featured_image: /images/raisin_final.jpg
-image: /images/raisin_final.jpg
+featured_image: /images/raisin_feature.jpg
+image: /images/raisin_feature.jpg
 recipe:
   servings: 1 loaf
   prep: 23 hours
@@ -179,6 +179,6 @@ Cover with a damp [dish towel](https://amzn.to/3JpT78w) and let sit for about 4 
 
 Preheat oven to 400 degrees. Bake for 35 minutes or until golden brown. Let sit in pan for 10 minutes after baking. Remove from loaf pan and let sit for at least 1 hour before slicing.
 
-|                                  |                                      |
-| -------------------------------- | ------------------------------------ |
-| ![Loaf](/images/raisin_loaf.jpg) | ![Slices](/images/raisin_slices.jpg) |
+|                                  |                                     |
+| -------------------------------- | ----------------------------------- |
+| ![Loaf](/images/raisin_loaf.jpg) | ![Slices](/images/raisin_slice.jpg) |

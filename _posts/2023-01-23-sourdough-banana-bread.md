@@ -1,6 +1,6 @@
 ---
 date: 2023-01-23
-title: Moist Low Sugar Sourdough Banana Bread
+title: Moist Sourdough Banana Bread
 categories:
   - Discard
 featured_image: /images/banana_bread.jpg
@@ -103,7 +103,7 @@ You can also freeze the bread in slices and then reheat individually. This creat
 
 ### Sourdough banana muffins
 
-Convert your sourdough banana bread into muffins by baking in a greased muffin tin instead of loaf pan for about 20 minutes. Fill each muffin compartment to a little over 3/4 full. You don't need to change any ingredients besides the baking time. This recipe will yield about 12 muffins. You can use muffin liners, but they are not required.
+Convert your sourdough banana bread into muffins by baking in a greased muffin tin instead of loaf pan for about 20-25 minutes. Fill each muffin compartment to a little over 3/4 full. You don't need to change any ingredients besides the baking time. This recipe will yield about 12 muffins. You can use muffin liners, but they are not required.
 
 When baking muffins, I either add chocolate chips or a butter, sugar topping. Melt 2 tablespoons of butter in a bowl and pour 1/4 cup brown sugar onto a small plate. Dip the top of each muffin in the melted butter and then immediately into the brown sugar.
 
