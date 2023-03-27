@@ -138,6 +138,6 @@ The dough will have risen well above the rim of the loaf pan. If you poke the do
 
 ### 8. Bake
 
-Preheat oven to 400 degrees. Bake for 40 minutes or until golden brown. Let sit in pan for 10 minutes after baking. Remove from loaf pan and let sit for at least 1 hour before slicing.
+Preheat oven to 400 degrees. Bake for 35 minutes or until golden brown. Let sit in pan for 10 minutes after baking. Remove from loaf pan and let sit for at least 1 hour before slicing.
 
 ![Slice](/images/sandwich_slices.jpg)
