@@ -8,7 +8,7 @@ image: /images/sandwich_loaf.jpg
 recipe:
   servings: 1 loaf
   prep: 23 hours
-  cook: 40 minutes
+  cook: 35 minutes
   ingredients_markdown: |-
     **Starter (Leaven)**
 
