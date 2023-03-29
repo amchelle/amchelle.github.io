@@ -3,8 +3,8 @@ date: 2023-01-30
 title: Sourdough Cinnamon Raisin Bread
 categories:
   - Breads
-featured_image: /images/raisin_feature.jpg
-image: /images/raisin_feature.jpg
+featured_image: /images/raisin_final.jpg
+image: /images/raisin_final.jpg
 recipe:
   servings: 1 loaf
   prep: 23 hours
