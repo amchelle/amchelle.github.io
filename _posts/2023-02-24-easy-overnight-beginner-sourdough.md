@@ -40,7 +40,7 @@ recipe:
   directions_markdown: |-
     **Starter**
 
-    1. **Feed starter.** Mix 10g rye flour, 60g all-purpose flour, 70g starter, 70g filtered water.
+    1. **Feed starter.** Mix 10g rye flour, 60g all-purpose flour, 70g starter, 70g filtered water. Let sit on counter for 5-6 hours until ubbly and doubled in size.
 
     **Dough**
     1. **Make dough.** Measure and mix water and starter until fully combined in a large bowl. Measure flour and salt and add to bowl and mix. Dough will be sticky.
@@ -87,7 +87,7 @@ The first thing you need to do is feed your starter. If it has been in the fridg
 
 Now if you want to make a really lazy sourdough and you have fed your starter within 48 hours you can take it out of the fridge at noon and use that for the dough. This surprisingly still makes a fantastic loaf and sometimes there just isn't enough time in the day.
 
-For this recipe we need 86g of starter. We also need to have enough starter remaining so that we can refeed it and use it in the future. I generally like to have about 50g leftover to feed. When transferring the starter, you lose a bit that you can't get out of the jar. This comes out to about 15g. Adding all these up, we need about 150g starter in order to make this recipe and refeed. Based off this number, you need to feed at least 50g starter, 50g water, and 50g flour. This is the bare minimum. I like to give myself some leeway and feed a 1:1:1 ratio of 70-80g each. For this recipe take out 70g starter and add 70g filtered water, 60g all-purpose, and 10g rye. You can swap out the rye for all-purpose, but I like the rye if you have it.
+For this recipe we need 86g of starter. We also need to have enough starter remaining so that we can refeed it and use it in the future. I generally like to have about 50g leftover to feed. When transferring the starter, you lose a bit that you can't get out of the jar. This comes out to about 15g. Adding all these up, we need about 150g starter in order to make this recipe and refeed. Based off this number, you need to feed at least 50g starter, 50g water, and 50g flour. This is the bare minimum. I like to give myself some leeway and feed a 1:1:1 ratio of 70-80g each. For this recipe take out 70g starter and add 70g filtered water, 60g all-purpose, and 10g rye. You can swap out the rye for all-purpose, but I like the rye if you have it. Let sit on counter for 5-6 hours until bubbly and doubled in size.
 
 ### 2. Make dough.
 
