@@ -3,8 +3,8 @@ date: 2023-02-24
 title: Easy Overnight Beginner Sourdough
 categories:
   - Breads
-featured_image: /images/easy_final.jpg
-image: /images/easy_final.jpg
+featured_image: /images/easy_featured.jpg
+image: /images/easy_featured.jpg
 recipe:
   servings: 1 loaf
   prep: 13 hours
@@ -145,4 +145,4 @@ After 20 minutes, remove the lid and bake uncovered for 20-25 minutes until brow
 
 Remove from oven and let sit for at least an hour before slicing. You need to give your bread time to set its flavor and release steam so your crumb isn't doughy.
 
-![Final Sourdough out of the Oven](/images/easy_bake.jpg)
+![Final Sourdough out of the Oven](/images/easy_finished.jpg)
