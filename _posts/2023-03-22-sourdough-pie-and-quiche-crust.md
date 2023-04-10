@@ -41,13 +41,13 @@ recipe:
     1. **Feed starter.** Mix 10g rye flour, 40g all-purpose flour, 50g starter, 50g filtered water.
 
     **Dough**
-    1. **Make dough.** Measure flour, starter, salt and add to bowl. Mix until mostly combined. Cut small cubes of cold butter over mixture. Knead with hands until butter is completely mixed. The butter will soften as you knead.
+    1. **Make dough.** Measure flour and salt and add to bowl. Mix until mostly combined. Cut small cubes of cold butter over mixture. Knead with hands or food processor until butter is completely mixed and you have small pieces. The butter will soften as you knead. Add starter until dry ingredients come together to form a ball.
     2. **Bulk Fermenation.** Cover dough with lid or damp towel and let sit for 6-7 hours.
     3. **Light Knead.** Take the dough in your hands and lightly knead for about 15 seconds. Shape into a flattened rectangle.
     4. **Fridge.** Place dough in plastic wrap or plastic bag and let sit in fridge for at least 2 hours and up to 24 hours. 
     5. **Roll.** Use a rolling pin to roll dough into a flat circle. Lightly flour rolling pin if sticking to dough.
     6. **Place in Pie Base.** Wrap rolled dough around rolling pin to carry to pie base and unroll. Press into sides of base. 
-    7. **Create Pie Edges.** Cut off overhand of pie crust. Shape into a ball and roll again. Cut into strips and place around edges of pie. Smooth edges and create desired decorative pie edge.
+    7. **Create Pie Edges.** Cut off overhang of pie crust. Shape into a ball and roll again. Cut into strips and place around edges of pie. Smooth edges and create desired decorative pie edge.
     8. **Bake.** Blind bake or fill with pie filling and bake.
 ---
 
@@ -190,11 +190,13 @@ Use a 100% hydration starter. Feed it equal parts water, flour, and beginning st
 
 ### 2. Make dough
 
-Measure 150g all-purpose flour, 65g starter, and 2g (pinch) of salt. Mix until fairly well combined. The starter will be sticky without added water so it will take some time to disperse.
+Measure 150g all-purpose flour and 2g (pinch) of salt. Mix together in a large bowl.
 
-Cut 7 tablespoons butter into small cubes over dough. Use your hands to mix the butter in, it will begin to soften from the warmth of your hands.
+Cut 7 tablespoons butter into small cubes over flour. Use your hands or a food processor to mix the butter in, it will begin to soften from the warmth of your hands and turn into small pea-sized pieces.
 
-Cover with a damp towel and let ferment for about 6-7 hours.
+Add 65g starter and combine with your hands until all the dry ingredients come together. If you find the mixture to still be dry, add a little more starter.
+
+Cover with a damp towel and let ferment for about 6-7 hours. If you want to use the dough quicker, skip the ferment and go straight to the next step.
 
 ![Make pie dough](/images/pie_dough.jpg)
 
