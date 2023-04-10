@@ -40,7 +40,7 @@ recipe:
   directions_markdown: |-
     **Starter**
 
-    1. **Feed starter.** Mix 10g rye flour, 60g all-purpose flour, 70g starter, 70g filtered water. Let sit on counter for 5-6 hours until ubbly and doubled in size.
+    1. **Feed starter.** Mix 10g rye flour, 60g all-purpose flour, 70g starter, 70g filtered water. Let sit on counter for 5-6 hours until bubbly and doubled in size.
 
     **Dough**
     1. **Make dough.** Measure and mix water and starter until fully combined in a large bowl. Measure flour and salt and add to bowl and mix. Dough will be sticky.
