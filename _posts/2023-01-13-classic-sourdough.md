@@ -3,7 +3,7 @@ date: 2023-01-13
 title: Classic Sourdough
 pinned: true
 categories:
-  - Breads
+  - breads
 featured_image: /images/classicSourdough.jpg
 image: /images/classicSourdough.jpg
 recipe:

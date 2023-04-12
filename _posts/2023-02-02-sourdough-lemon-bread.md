@@ -2,8 +2,8 @@
 date: 2023-02-02
 title: Sourdough Lemon Bread
 categories:
-  - Discard
-  - Sweets
+  - discard
+  - sweets
 featured_image: /images/lemon_final.jpg
 image: /images/lemon_final.jpg
 recipe:

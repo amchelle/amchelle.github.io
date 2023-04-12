@@ -2,7 +2,7 @@
 date: 2023-02-22
 title: Sourdough Tortillas
 categories:
-  - Discard
+  - discard
 featured_image: /images/tortilla_final.jpg
 image: /images/tortilla_final.jpg
 recipe:

@@ -2,7 +2,7 @@
 date: 2023-01-15
 title: Sourdough Sandwich Bread
 categories:
-  - Breads
+  - breads
 featured_image: /images/sandwich_loaf.jpg
 image: /images/sandwich_loaf.jpg
 recipe:

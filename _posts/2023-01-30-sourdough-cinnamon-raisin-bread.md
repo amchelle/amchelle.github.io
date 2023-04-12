@@ -2,7 +2,7 @@
 date: 2023-01-30
 title: Sourdough Cinnamon Raisin Bread
 categories:
-  - Breads
+  - breads
 featured_image: /images/raisin_final.jpg
 image: /images/raisin_final.jpg
 recipe:

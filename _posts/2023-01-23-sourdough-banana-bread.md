@@ -2,7 +2,7 @@
 date: 2023-01-23
 title: Moist Sourdough Banana Bread
 categories:
-  - Discard
+  - discard
 featured_image: /images/banana_bread.jpg
 image: /images/banana_bread.jpg
 recipe:

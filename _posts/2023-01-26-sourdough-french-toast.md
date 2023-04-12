@@ -2,7 +2,7 @@
 date: 2023-01-26
 title: Sourdough French Toast
 categories:
-  - Sweets
+  - sweets
 featured_image: /images/french_toast.jpg
 image: /images/french_toast.jpg
 recipe:
