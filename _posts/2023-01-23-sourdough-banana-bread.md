@@ -109,6 +109,8 @@ When baking muffins, I either add chocolate chips or a butter, sugar topping. Me
 
 Sourdough chocolate banana muffins with chocolate chips are always a crowd favorite and super quick to make.
 
+![Chocolate Sourdough Banana Muffins](/images/banana_muffin.jpg)
+
 # Step by Step Instructions
 
 ### 1. Preheat oven

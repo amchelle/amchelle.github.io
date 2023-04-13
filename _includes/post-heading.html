@@ -6,30 +6,6 @@
 <h1>
   <a href="{{ include.post.url }}"> {{ include.post.title }} </a>
 </h1>
-<div>
-  <a href="{{ page.user_url }}" target="_blank">
-    {% if page.author %} Author: {{page.author}} {% endif %}
-  </a>
-</div>
-<div class="social-icons">
-  {% if page.facebook %}<a
-    target="_blank"
-    href="https://facebook.com/{{ page.facebook }}"
-    >{% include social-icon.html icon="Facebook" %}</a
-  >{% endif %} {% if page.twitter %}<a
-    target="_blank"
-    href="https://twitter.com/{{ page.twitter }}"
-    >{% include social-icon.html icon="Twitter" %}</a
-  >{% endif %} {% if page.pinterest %}<a
-    target="_blank"
-    href="https://pinterest.com/{{ page.pinterest }}"
-    >{% include social-icon.html icon="Pinterest" %}</a
-  >{% endif %} {% if page.instagram %}<a
-    target="_blank"
-    href="https://www.instagram.com/{{ page.instagram }}"
-    >{% include social-icon.html icon="Instagram" %}</a
-  >{% endif %}
-</div>
 <time datetime="{{ include.post.date | date_to_xmlschema }}">
   {{ include.post.date | date: "%B %-d, %Y" }}
 </time>

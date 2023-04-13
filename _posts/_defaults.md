@@ -1,11 +1,5 @@
 ---
 title:
-author:
-user_url:
-facebook:
-twitter:
-pinterest:
-instagram:
 categories:
 date:
 featured_image:

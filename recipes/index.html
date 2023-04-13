@@ -7,7 +7,9 @@ image_view: true
 
 {% if page.image_view %} {% for category in site.categories %}
 <h2 class="capitalize">
-  <a href="{{ site.baseurl }} {{ category[0]}}"> {{ category[0] }} </a>
+  <a class="titleColor" href="{{ site.baseurl }} {{ category[0]}}">
+    {{ category[0] }}
+  </a>
 </h2>
 <div class="recipes">
   {% for recipe in category[1] %}
