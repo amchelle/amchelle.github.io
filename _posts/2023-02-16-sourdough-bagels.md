@@ -2,7 +2,7 @@
 date: 2023-02-16
 title: Sourdough Bagels
 categories:
-  - Breads
+  - breads
 featured_image: /images/bagels_final.jpg
 image: /images/bagels_final.jpg
 recipe:

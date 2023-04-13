@@ -2,7 +2,7 @@
 date: 2023-03-22
 title: Flaky Sourdough Pie & Quiche Crust
 categories:
-  - Discard
+  - discard
 featured_image: /images/pie_crust.jpg
 image: /images/pie_crust.jpg
 recipe:

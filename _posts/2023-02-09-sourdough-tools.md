@@ -3,7 +3,7 @@ layout: content
 date: 2023-02-09
 title: Sourdough Tools & Equipment
 categories:
-  - General
+  - general
 featured_image: /images/tools_banneton.jpg
 image: /images/tools_banneton.jpg
 ---

@@ -2,7 +2,7 @@
 date: 2023-02-24
 title: Easy Overnight Beginner Sourdough
 categories:
-  - Breads
+  - breads
 featured_image: /images/easy_featured.jpg
 image: /images/easy_featured.jpg
 recipe:

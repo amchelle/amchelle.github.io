@@ -2,7 +2,7 @@
 date: 2023-01-23
 title: Moist Sourdough Banana Bread
 categories:
-  - Discard
+  - discard
 featured_image: /images/banana_bread.jpg
 image: /images/banana_bread.jpg
 recipe:
@@ -108,6 +108,8 @@ Convert your sourdough banana bread into muffins by baking in a greased muffin t
 When baking muffins, I either add chocolate chips or a butter, sugar topping. Melt 2 tablespoons of butter in a bowl and pour 1/4 cup brown sugar onto a small plate. Dip the top of each muffin in the melted butter and then immediately into the brown sugar.
 
 Sourdough chocolate banana muffins with chocolate chips are always a crowd favorite and super quick to make.
+
+![Chocolate Sourdough Banana Muffins](/images/banana_muffin.jpg)
 
 # Step by Step Instructions
 
