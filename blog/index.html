@@ -1,13 +1,14 @@
 ---
-title: Recipes
+title: Blog
 image_view: true
 ---
 
-<h1>Recipes</h1>
-
+<h1>Blog</h1>
+<p class="grayColor">
+  Monthly tips, tricks, favorite recipes and new findings for healthy living.
+</p>
 {% if page.image_view %} {% for category in site.categories %} {% if category[0]
-!= 'general' %}
-<h2 class="capitalize">{{ category[0] }}</h2>
+== "general" %}
 <div class="recipes">
   {% for recipe in category[1] %}
   <div
