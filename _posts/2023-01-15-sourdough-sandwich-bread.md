@@ -50,6 +50,15 @@ recipe:
 
 This is a super soft and fluffy sourdough sandwich bread recipe. Make some tasty sandwiches for picnic lunches or toast!
 
+### Alterations
+
+- Honey can be replaced for sweetener of choice. It can also be entirely removed. I like the little hint of sweetness that the honey provides without being too overwhelming.
+- For ease, you can add the salt when you first make the dough instead of seperating it out into another step.
+
+### Tips
+
+- Allow enough time for the dough to rise during the proof before baking.
+
 ### What are the timings?
 
 - **1:00 pm:** feed starter
@@ -105,7 +114,7 @@ Wet your hands, pinch and grab one side of the dough with both hands and pull up
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RgPHWpMonsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Take the temperature of the dough, you should notice how the thermometor comes out cleaner than before.
+Take the temperature of the dough, you should notice how the thermometor comes out cleaner than before. Use this temperature to gauge how fast or slow your dough will ferment.
 
 Cover and let sit for 30 mins. I like to do this step two more times for optimal gluten development, but one will suffice. The more stretch and folds you do, the better crumb and final shape of your dough.
 

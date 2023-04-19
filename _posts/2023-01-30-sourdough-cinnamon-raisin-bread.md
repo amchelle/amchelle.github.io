@@ -46,7 +46,7 @@ recipe:
 
     **Dough**
     1. **Make dough and autolyse.** Measure and mix water and starter in a mixing bowl until fully combined. Add bread flour and salt. Dough will be shaggy. Cut softened butter into cubes and work into dough until dissolved and fully incorporated. Cover with lid or damp towel and let sit for 1 hour.
-    2. **Soak Raisins.** Measure raisins and soak in water for 1 hour.
+    2. **Soak Raisins.** Measure raisins and soak in warm water for 1 hour.
     3. **Add raisins.** Drain the raisins and add to dough. Lightly knead until well dispersed. Let sit covered for 30 minutes.
     3. **Stretch and fold.** Perform a stretch and fold and let sit covered for 30 minutes. Repeat step up to one or two more times (time permitting).
     4. **Bulk fermentation.** Leave dough covered for ~12-13 hours (overnight) after your start step 1.
@@ -86,7 +86,7 @@ Add cinnamon to main dough instead of as a filling and add 15g of water. Add you
 
 ### Tips
 
-- Make sure you soak the raisins.
+- Make sure you soak the raisins in warm water.
 - Oil your loaf pan so you can easily get the bread out after baking.
 - Proof for at least 2 hours! Poke the top of the dough with your finger and the imprint should very slowly rise back. This is called the poke test.
 - As you roll the dough, pinch the side edges together on each roll to prevent leaking when baking.
@@ -123,7 +123,7 @@ Cover bowl with lid or damp towel and let sit for 1 hour. This stage is called a
 
 ### 3. Soak Raisins
 
-Measure [raisins](https://amzn.to/3WKx13v) and add to a cup. Fill with water and let soak for the remainder of the autolyse hour in Step 2.
+Measure [raisins](https://amzn.to/3WKx13v) and add to a cup. Fill with warm water and let soak for the remainder of the autolyse hour in Step 2.
 
 ![Raisins](/images/raisin_raisins.jpg)
 
