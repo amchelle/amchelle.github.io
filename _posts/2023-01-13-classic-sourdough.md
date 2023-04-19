@@ -22,7 +22,7 @@ recipe:
     **Dough**
 
     * 430 g [bread flour](https://amzn.to/3HldQHP)
-    * 300 g filter water
+    * 300 g filtered water
     * 65 g bubbly starter
     * 10 g [salt](https://amzn.to/3kJMDqI)
     * (Optional rice flour for dusting)
