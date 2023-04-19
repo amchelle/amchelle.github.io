@@ -166,7 +166,7 @@ Scrape your dough out onto a clean, lightly floured counter. Perform a letter fo
 
 Let rest for 10-20 minutes and repeat prior step to create a boule. Flip dough seam side up and place into banneton.
 
-If you prefer a more oval shape, then shape the dough into a bâtard. Begin by starting an letter fold but only complete two sides. On one of the adjacent sides, grab the edge with both hands and fold it to about a quarter of the length of the dough. Slowly roll the dough and gently tug towards you with each roll until you have completed the shape. Pinch the edges together and then flip seam side up into a lightly floured banneton.
+If you prefer a more oval shape, then shape the dough into a bâtard. Begin by starting a letter fold but only complete two sides. On one of the adjacent sides, grab the edge with both hands and fold it to about a quarter of the length of the dough. Slowly roll the dough and gently tug towards you with each roll until you have completed the shape. Pinch the edges together and then flip seam side up into a lightly floured banneton.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WXQ7XrIMGEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
