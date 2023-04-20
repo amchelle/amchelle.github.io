@@ -74,7 +74,7 @@ Honey and maple syrup are a little more difficult. When filling, sprinkle just t
 
 ### Sourdough cinnamon sugar bread
 
-I really like this bread when I don't have or don't want raisins. Simply take out the raisins from the dough and fill/roll with the cinnamon sugar filling to make a swirl.
+I really like this bread when I don't have or don't want raisins. Simply take out the raisins from the dough and fill/roll with the cinnamon sugar filling to make a swirl. You can leave it as a swirl or cut the dough down the middle and then twist the two sections to expose the cinnamon sugar filling.
 
 You can also add the cinnamon and sugar to the beginning dough when you mix. The cinnamon can be drying so I would add about 15g of water to the recipe if you are going with this method.
 
