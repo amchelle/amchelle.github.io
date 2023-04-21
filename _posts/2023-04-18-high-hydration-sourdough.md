@@ -95,6 +95,7 @@ These are the basic recipe templates I go off of when I make sourdough. Try addi
 - If you want even higher hydration try adding a little bit more whole wheat flour, experiment as you increase the water.
 - During the bulk fermentation try to keep the location and temperature the same. Varying termperature changes will lead to varying sizes of air pockets in the crumb as the fermentation slows or quickens.
 - The amount of starter can also be adjusted. Add more and the dough will ferment faster, add less and it will take longer but have more flavor.
+- If you don't like the flavor of whole wheat, slowly swap out 10g of the bread flour for whole wheat. It has a very strong flavor that can take time to become accustomed to. As you swap out the flours, slowly increase your hydration level as well until you find a ratio that is ideal.
 
 ### What are the timings?
 
@@ -143,9 +144,9 @@ Let sit covered for 1 hour.
 
 ### 7. Lamination
 
-This is the step that gives me consistently nice open crumb. It is also the point where you can add some additions to your dough like sesame seeds or dried fruits (that have been soaked!). You can replace this step with another stretch and fold or a coil fold if you do not have time or space.
+This is the step that consistently creates nice open crumb. It is also the point where you can add some additions to your dough like sesame seeds or dried fruits (that have been soaked!). You can replace this step with another stretch and fold or a coil fold if you do not have time or space.
 
-Wet hands and counter and pour/scrape dough onto clean wet surface. Gently stretch dough until it is very thin throughout. Be careful to not stetch too far that the dough tears. At this stage you will notice little bubbles that have formed in the dough.
+Wet hands and counter and pour/scrape dough onto clean wet surface. Gently stretch dough until it is very thin throughout. Be careful to not stetch too far so that the dough tears. At this stage you will notice little bubbles that have formed in the dough.
 
 Once you have the dough fully stetched, fold it up like a blanket and put back into bowl. Let sit covered for 1 hour.
 
@@ -155,7 +156,7 @@ Once you have the dough fully stetched, fold it up like a blanket and put back i
 
 This step can be replaced with a stretch and fold, but I find that at this late stage a coil fold is less disruptive than a stretch and fold.
 
-Wet both hands. Grab the left and right edges of the dough and pull and out of the bowl. Slowly place back down, letting the dough fold onto itself. Rotate bowl 90 degrees and perform another coil fold.
+Wet both hands. Grab the left and right edges of the dough and pull up and out of the bowl. Slowly place back down, letting the dough fold onto itself. Rotate bowl 90 degrees and perform another coil fold.
 
 You can add a few more coil folds, in 30-1hr increments if the dough still feels sloppy and wet. The higher the hydration of your dough the more coil folds you will need to do to strengthen the dough.
 
