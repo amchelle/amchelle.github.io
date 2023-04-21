@@ -22,7 +22,7 @@ recipe:
 
     * 344 g bread flour
     * 86 g whole wheat
-    * 344 g filtered water
+    * 344 g filtered water (can go up to 365 g for 85% hydration)
     * 86 g bubbly starter
     * 10 g salt
     * (Optional rice flour for dusting banneton)
@@ -79,7 +79,7 @@ Recipe and steps for a sourdough with high hydration and beautiful open crumb th
 
 There are three different variations in this recipe:
 
-- Whole wheat, bread flour combo with 80% hydration
+- Whole wheat, bread flour combo with 80-85% hydration
 - Einkorn, bread flour combo with 75% hydratyion
 - Bread flour with 70% hydration
 
