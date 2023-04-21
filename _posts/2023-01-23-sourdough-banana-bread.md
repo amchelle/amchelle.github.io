@@ -89,12 +89,6 @@ Brown sugar works especially well in this recipe, but if you don't have it then 
 
 Replace the eggs with an additional banana and exchange butter with coconut or olive oil. Remove the milk entirely or use a dairy-free replacement like soy, almond, or oat. Oat would be my first choice. You can also replace the milk with 30g extra sourdough discard.
 
-### How to make it fermented?
-
-Most of the time, I go from mixing to straight in the oven. However, we aren't getting the full benefits of fermentation this way. Instead, pop in the fridge for about 6-12 hours after mixing. Cover the loaf pan and batter with a plastic bag or shower cap. To be safe, you need to put it in the fridge instead of out on the counter because the batter has eggs and milk.
-
-With this method you can make the batter in the morning and then bake at night or mix at night and let sit in fridge overnight for a morning bake. If your loaf pan is Pyrex or something similar, let it warm to room temp before putting into oven so your container doesn't crack with the rapid temperature change.
-
 ### How to store?
 
 Keep bread in a sealed plastic bag at room temperature for a few days or refrigerate it for a week.
