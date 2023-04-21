@@ -83,9 +83,18 @@ There are three different variations in this recipe:
 - Einkorn, bread flour combo with 75% hydratyion
 - Bread flour with 70% hydration
 
-Whole wheat is higher in protein so it needs more water than a dough that is all bread flour. If you try to make a 85% hydration dough with just bread flour it is going to feel and taste stretchy and rubbery. Higher hydration with the proper techniques create that desired open wild soft crumb. The benefits of higher hydration are not limited to the crumb. The crust is going to be crispier and the bread will stay fresher for longer. Lower hydration doughs can turn crumbly in just a day. To learn more about sourdough hydration levels checkout my [blog post](https://www.sourdoughathome.com/general/2023/02/08/understanding-sourdough-hydration-levels/).
+Whole wheat is higher in protein so it needs more water than a dough that is all bread flour. If you try to make a 85% hydration dough with just bread flour it is going to feel and taste stretchy and rubbery. Higher hydration, with the proper techniques, creates that desired open wild soft crumb. The benefits of higher hydration are not limited to the crumb. The crust is going to be crispier and the bread will stay fresher for longer. Lower hydration doughs can turn crumbly in just a day. To learn more about sourdough hydration levels checkout my [blog post](https://www.sourdoughathome.com/general/2023/02/08/understanding-sourdough-hydration-levels/).
 
-These are the basic recipe templates I go off of when I make sourdough. Try adding more water or different flour combos to perfect your sourdough. My favorite variation is with Einkorn. It creates a very flavorful bread and is incredibly nutritious. I like the flavor of it much more than whole wheat. Try grinding your own wheat berries and add to one of these variations!
+These are the basic recipe templates I go off of when I make sourdough. Try adding more water or different flour combos to perfect your sourdough. My favorite variation is with Einkorn. It creates a very flavorful bread and is incredibly nutritious. I like the flavor of it much more than whole wheat. Einkorn does have more protein in it that standard whole wheat, but for sourdough I like it at a lower hydration. You can definitely go higher with the hydration than 75%, but this is generally around the place I like to keep it. You can find Einkorn in most stores, I like to use [Jovial Organic Einkorn Whole Wheat Flour](https://amzn.to/3KXEloO). If you want to go above and beyond, I highly recommend grinding your own wheat berries to be used in one of these variations!
+
+### Tips
+
+- The more water you add, the faster the bulk fermentation will go
+- Whole wheat flours ferment faster than white flours so keep this in mind when adjusting the ratios
+- Don't do too many stretch and folds or coil folds. If you feel the dough is tight and doesn't have much slack, push off your fold. Sometimes messing with the dough too much can have an adverse affect. Listen to what your dough is telling you.
+- If you want even higher hydration try adding a little bit more whole wheat flour, experiment as you increase the water.
+- During the bulk fermentation try to keep the location and temperature the same. Varying termperature changes will lead to varying sizes of air pockets in the crumb as the fermentation slows or quickens.
+- The amount of starter can also be adjusted. Add more and the dough will ferment faster, add less and it will take longer but have more flavor.
 
 ### What are the timings?
 
@@ -108,7 +117,7 @@ These are the basic recipe templates I go off of when I make sourdough. Try addi
 
 I recommend a 100% hydration starter for this receipe. This means equal parts water, flour, and beginning starter, a 1:1:1 ratio. For this recipe, I generally feed mine 10g rye, 60g all-purpose, 70g water, 70g starter. Let sit in warm place for about 5-6 hours until starter is at peak and bubbly.
 
-You can do a stiffer starter, but the bulk fermentation time will need to be adjusted.
+You can do a stiffer starter, but the bulk fermentation time will need to be slightly adjusted. Your starter is also going to take longer to be at peak. This can be useful if you want to adjust your timings and have the starter last throughout the night so you can mix dough in the morning.
 
 ### 2. Make dough
 
@@ -164,9 +173,11 @@ Scrape your dough out onto a clean, lightly floured counter. Perform a letter fo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mfdem4TbhZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Let rest for 10-20 minutes and repeat prior step to create a boule. Flip dough seam side up and place into banneton.
+Let rest for 10-20 minutes.
 
-If you prefer a more oval shape, then shape the dough into a bâtard. Begin by starting a letter fold but only complete two sides. On one of the adjacent sides, grab the edge with both hands and fold it to about a quarter of the length of the dough. Slowly roll the dough and gently tug towards you with each roll until you have completed the shape. Pinch the edges together and then flip seam side up into a lightly floured banneton.
+Lightly dust top of dough, flip over with a bench knife and repeat prior step beginning with letter fold to create a boule. Flip dough seam side up and place into banneton.
+
+If you prefer a more oval shape, then shape the dough into a bâtard. Begin by starting a letter fold but only complete two sides. Rotate the dough so that one of the adjacent sides it facing you. Grab the edge with both hands and fold it to about a quarter of the length of the dough. Slowly roll the dough and gently tug towards you with each roll until you have completed the shape. Pinch the edges together and then flip seam side up into a lightly floured banneton.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WXQ7XrIMGEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -176,7 +187,7 @@ Cover dough with damp towel or shower cap and place in fridge overnight for at l
 
 Preheat your oven to 500 degrees with the pot and lid in the oven. I recommend using a [Dutch oven](https://amzn.to/3Hgj5sx) or [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome).
 
-Flip dough out of banneton onto a piece of parchment paper that will just fit the dough. You don't want it too big or it will prevent the sides from browning and also create wrinkles in the side of the bread. Keep in mind, the parchment paper does need to be large enough to carry the dough to the baking vessel.
+Flip dough out of banneton onto a piece of parchment paper that will just fit the dough. You don't want it too big or it will prevent the sides from browning and also create wrinkles in the side of the bread, this is especially a problem with the dutch oven. Keep in mind, the parchment paper does need to be large enough to carry the dough to the baking vessel.
 
 Score dough with a slash down the middle or score of choice and carry to baking vessel. Add ice cubes or spritz with water for steam and cover with lid.
 
