@@ -22,7 +22,7 @@ recipe:
 
     * 344 g bread flour
     * 86 g whole wheat
-    * 344 g filtered water (can go up to 365 g for 85% hydration)
+    * 344 g filtered water
     * 86 g bubbly starter
     * 10 g salt
     * (Optional rice flour for dusting banneton)
@@ -79,11 +79,11 @@ Recipe and steps for a sourdough with high hydration and beautiful open crumb th
 
 There are three different variations in this recipe:
 
-- Whole wheat, bread flour combo with 80-85% hydration
+- Whole wheat, bread flour combo with 80% hydration
 - Einkorn, bread flour combo with 75% hydratyion
 - Bread flour with 70% hydration
 
-Whole wheat is higher in protein so it needs more water than a dough that is all bread flour. If you try to make a 85% hydration dough with just bread flour it is going to feel and taste stretchy and rubbery. Higher hydration, with the proper techniques, creates that desired open wild soft crumb. The benefits of higher hydration are not limited to the crumb. The crust is going to be crispier and the bread will stay fresher for longer. Lower hydration doughs can turn crumbly in just a day. To learn more about sourdough hydration levels checkout my [blog post](https://www.sourdoughathome.com/general/2023/02/08/understanding-sourdough-hydration-levels/).
+Whole wheat is higher in protein so it needs more water than a dough that is all bread flour. If you try to make a 85% hydration dough with just bread flour it is going to feel and taste more stretchy and rubbery. Higher hydration, with the proper techniques, creates that desired open wild soft crumb. The benefits of higher hydration are not limited to the crumb. The crust is going to be crispier and the bread will stay fresher for longer. Lower hydration doughs can turn crumbly in just a day. To learn more about sourdough hydration levels checkout my [blog post](https://www.sourdoughathome.com/general/2023/02/08/understanding-sourdough-hydration-levels/).
 
 These are the basic recipe templates I go off of when I make sourdough. Try adding more water or different flour combos to perfect your sourdough. My favorite variation is with Einkorn. It creates a very flavorful bread and is incredibly nutritious. I like the flavor of it much more than whole wheat. Einkorn does have more protein in it that standard whole wheat, but for sourdough I like it at a lower hydration. You can definitely go higher with the hydration than 75%, but this is generally around the place I like to keep it. You can find Einkorn in most stores, I like to use [Jovial Organic Einkorn Whole Wheat Flour](https://amzn.to/3KXEloO). If you want to go above and beyond, I highly recommend grinding your own wheat berries to be used in one of these variations!
 
