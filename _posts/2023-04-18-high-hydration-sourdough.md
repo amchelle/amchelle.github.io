@@ -66,6 +66,8 @@ Whole wheat is higher in protein so it needs more water than a dough that is all
 
 This is the basic recipe template I go off of when I make sourdough. Try adding more water, flour or different flour combos to perfect your sourdough. My favorite variation is with Einkorn. It creates a very flavorful bread and is incredibly nutritious. I like the flavor of it much more than whole wheat. Einkorn does have more protein in it than standard whole wheat. You can find Einkorn in most stores, I like to use [Jovial Organic Einkorn Whole Wheat Flour](https://amzn.to/3KXEloO). If you want to go above and beyond, I highly recommend grinding your own wheat berries!
 
+![Final Sourdough Batard](/images/crumb_top.jpg)
+
 ### Tips
 
 - The more water you add, the faster the bulk fermentation will go
