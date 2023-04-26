@@ -18,29 +18,12 @@ recipe:
     * 70 g starter
     * 70 g filtered water
 
-    **Whole Wheat Bread**
+    **Dough**
 
-    * 344 g bread flour
-    * 86 g whole wheat
-    * 344 g filtered water
-    * 86 g bubbly starter
-    * 10 g salt
-    * (Optional rice flour for dusting banneton)
-
-    **Einkorn Bread**
-
-    * 344 g bread flour
-    * 86 g einkorn flour
-    * 323 g filtered water
-    * 86 g bubbly starter
-    * 10 g salt
-    * (Optional rice flour for dusting banneton)
-
-    **White Bread**
-
-    * 430 g bread flour
-    * 301 g filtered water
-    * 86 g bubbly starter
+    * 353 g bread flour
+    * 77 g whole wheat
+    * 355 g filtered water
+    * 80 g bubbly starter
     * 10 g salt
     * (Optional rice flour for dusting banneton)
 
@@ -77,25 +60,21 @@ recipe:
 
 Recipe and steps for a sourdough with high hydration and beautiful open crumb that will make you look like a pro baker!
 
-There are three different variations in this recipe:
-
-- Whole wheat, bread flour combo with 80% hydration
-- Einkorn, bread flour combo with 75% hydratyion
-- Bread flour with 70% hydration
+This loaf has a hydration of 82.5%. If you don't feel quite comfortable handling that high of hydration, then lower the water for this recipe. I often stay in the range of 75%-83% depending on the type of flour I have or loaf that I want for the day. So anywhere between 322-357 g water is going to produce a great loaf. Any higher of hydration and I would make sure to add a little bit more wheat flour, but the same method applies.
 
 Whole wheat is higher in protein so it needs more water than a dough that is all bread flour. If you try to make a 85% hydration dough with just bread flour it is going to feel and taste more stretchy and rubbery. Higher hydration, with the proper techniques, creates that desired open wild soft crumb. The benefits of higher hydration are not limited to the crumb. The crust is going to be crispier and the bread will stay fresher for longer. Lower hydration doughs can turn crumbly in just a day. To learn more about sourdough hydration levels checkout my [blog post](https://www.sourdoughathome.com/general/2023/02/08/understanding-sourdough-hydration-levels/).
 
-These are the basic recipe templates I go off of when I make sourdough. Try adding more water or different flour combos to perfect your sourdough. My favorite variation is with Einkorn. It creates a very flavorful bread and is incredibly nutritious. I like the flavor of it much more than whole wheat. Einkorn does have more protein in it that standard whole wheat, but for sourdough I like it at a lower hydration. You can definitely go higher with the hydration than 75%, but this is generally around the place I like to keep it. You can find Einkorn in most stores, I like to use [Jovial Organic Einkorn Whole Wheat Flour](https://amzn.to/3KXEloO). If you want to go above and beyond, I highly recommend grinding your own wheat berries to be used in one of these variations!
+This is the basic recipe template I go off of when I make sourdough. Try adding more water, flour or different flour combos to perfect your sourdough. My favorite variation is with Einkorn. It creates a very flavorful bread and is incredibly nutritious. I like the flavor of it much more than whole wheat. Einkorn does have more protein in it than standard whole wheat. You can find Einkorn in most stores, I like to use [Jovial Organic Einkorn Whole Wheat Flour](https://amzn.to/3KXEloO). If you want to go above and beyond, I highly recommend grinding your own wheat berries!
 
 ### Tips
 
 - The more water you add, the faster the bulk fermentation will go
 - Whole wheat flours ferment faster than white flours so keep this in mind when adjusting the ratios
-- Don't do too many stretch and folds or coil folds. If you feel the dough is tight and doesn't have much slack, push off your fold. Sometimes messing with the dough too much can have an adverse affect. Listen to what your dough is telling you.
+- Don't do too many stretch and folds or coil folds. If you feel the dough is tight and doesn't have much slack, push off your fold. Sometimes messing with the dough too much can have an adverse effect. Listen to what your dough is telling you.
 - If you want even higher hydration try adding a little bit more whole wheat flour, experiment as you increase the water.
 - During the bulk fermentation try to keep the location and temperature the same. Varying termperature changes will lead to varying sizes of air pockets in the crumb as the fermentation slows or quickens.
 - The amount of starter can also be adjusted. Add more and the dough will ferment faster, add less and it will take longer but have more flavor.
-- If you don't like the flavor of whole wheat, slowly swap out 10g of the bread flour for whole wheat. It has a very strong flavor that can take time to become accustomed to. As you swap out the flours, slowly increase your hydration level as well until you find a ratio that is ideal.
+- If you don't like the flavor of whole wheat, lower the hydration to 70-75% and slowly build up by swapping out 10g of the bread flour for whole wheat. It has a very strong flavor that can take time to become accustomed to. As you swap out the flours, slowly increase your hydration level as well until you find a ratio that is ideal.
 
 ### What are the timings?
 
@@ -104,7 +83,7 @@ These are the basic recipe templates I go off of when I make sourdough. Try addi
 - **2:00 pm:** add starter
 - **3:00 pm:** add salt
 - **3:30 pm:** stretch and fold
-- **4:30 pm:** lamination
+- **4:30 pm:** lamination or fold
 - **5:30 pm:** coil fold
 - **7:00 pm:** shape and cold proof
 - **8:00 am(next day):** preheat oven
@@ -122,7 +101,7 @@ You can do a stiffer starter, but the bulk fermentation time will need to be sli
 
 ### 2. Make dough
 
-Measure 344g bread flour and 86g whole wheat or einkorn (430g bread flour if you want white bread). Add flour to bowl and mix 344g filtered water for whole wheat, 323g for einkorn, or 301g for white until fully combined. Dough will be very sticky.
+Measure 353g bread flour and 77g whole wheat flour. Add flour to bowl and mix 355g filtered water until fully combined. Dough will be very sticky.
 
 ### 3. Autolyse
 
@@ -130,7 +109,7 @@ Let sit covered for at least 1 hour and up to 3 for optimal hydration and gluten
 
 ### 4. Add starter
 
-Measure 86g active starter and add to dough. Pinch around the dough to make sure all the starter is mixed in, it will take a few minutes of kneading. Let sit covered for 1 hour.
+Measure 80g active starter and add to dough. Pinch around the dough to make sure all the starter is mixed in, it will take a few minutes of kneading. Let sit covered for 1 hour.
 
 ### 5. Add salt
 
@@ -164,7 +143,7 @@ You can add a few more coil folds, in 30-1hr increments if the dough still feels
 
 ### 9. Bulk Fermentation
 
-Leave dough covered on counter in a warm place for about 1 - 3 hours depending on the temperature of your home and humidity. It can be tough to tell when the bulk fermentation is complete but you will get used to it the more you bake. You will see small and medium bubbles all over the surface of the dough. Wheat flour is going to ferment faster than white so keep that in mind as you change up the flours you use.
+Leave dough covered on counter in a warm place for about 1 - 2 hours depending on the temperature of your home and humidity. It can be tough to tell when the bulk fermentation is complete but you will get used to it the more you bake. You will see small and medium bubbles all over the surface of the dough. Wheat flour is going to ferment faster than white so keep that in mind as you change up the flours you use.
 
 ### 10. Shape
 
