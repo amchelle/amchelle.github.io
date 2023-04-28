@@ -21,7 +21,7 @@ When your bread rises in the oven, scoring guides it to expand in a specific pla
 
 Lower hydration is going to be easier to score, it will also provide more of an oven spring if that is something you desire for your loaf and score design. Lower hydration does have more tearing issues than higher hydration since the elasticity of the dough is less. Adding steam will help prevent your crust form forming too quickly and causing tears.
 
-### Tools for Scoring Sourdough
+### Tools for scoring sourdough
 
 I use a [bread lame](https://amzn.to/40Pce0G) and razor blade primarily for scoring. The bread lame is slightly curved and is the best tool of choice for the crescent score which produces a really great sourdough ear.
 
