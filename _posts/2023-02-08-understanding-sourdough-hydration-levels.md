@@ -3,7 +3,7 @@ layout: content
 date: 2023-02-08
 title: Understanding Sourdough Hydration Levels
 categories:
-  - general
+  - blog
 featured_image: /images/hydration_featured.jpg
 image: /images/hydration_featured.jpg
 ---

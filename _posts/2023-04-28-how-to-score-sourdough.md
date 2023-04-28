@@ -3,7 +3,7 @@ layout: content
 date: 2023-04-28
 title: How to Score Sourdough
 categories:
-  - general
+  - blog
 featured_image: /images/scoring_final.jpg
 image: /images/scoring_final.jpg
 ---
