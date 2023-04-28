@@ -51,7 +51,7 @@ If you want an intricate flour design without the lines, then use a banneton and
 
 It is crucial to avoid steam with this design. Do not use ice cubes or spritz with water. The flour with soak up the steam and you will lose your design.
 
-I have stepped away from designing with flour because I think it is contrary to the best sourdough method. Steam is crucial to the crust and flavor of sourdough, so avoiding it seems not desirable. Also, a lot of people do not like the flour coating on the outside, it does make your sourdough crust taste chalky.
+I have stepped away from designing with flour because I think it is contrary to the best sourdough method. Steam is crucial to the crust and flavor of sourdough, so avoiding it seems undesirable. Also, a lot of people do not like the flour coating on the outside, it does make your sourdough crust taste chalky.
 
 ![Sourdough Middle Score](/images/scoring_middle.jpg)
 
