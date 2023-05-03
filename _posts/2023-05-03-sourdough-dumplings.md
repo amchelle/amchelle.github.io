@@ -57,7 +57,7 @@ recipe:
     3. **Cut.** Scrape dough out of bowl onto clean floured countertop. Cut dough into small sections of about 15g. Roll each section into a ball with hands.
     4. **Roll.** Flatten dough ball with your hands and dust with flour. With a rolling pin push away from you. Rotate the dough 90 degrees and roll again. Complete two more rotations. Roll out the remaining dough balls. The dumpling wrappers should be about 2 1/2 inches in diameter.
     5. **Fill.** Combine filling ingredients in a large bowl and fill each wrapper with about a tablespoon of filling.
-    6. **Fold.** Fold the wrapper in half containing the filling and then pleat the edges together pressing together to create a seal.
+    6. **Fold.** Fold the wrapper in half containing the filling and then pleat the edges pressing together to create a seal.
     7. **Cook.** Bring water to boil and steam dumplings covered with lid for 10 minutes in a steamer.
 ---
 
@@ -77,7 +77,7 @@ Steaming is my favorite method. It keeps a nice juicy center and is easy to do. 
 
 #### Pan Fry
 
-This is my default option if I don't have a steamer pot. Heat a oiled cast iron pan on medium-low. Once hot, add dumplings to pan and cook for 2 minutes. Pour enough water to cover the base of the pan and then quickly cover with a lid. You have to act fast during this step because the water with the hot oil will create quite the mess. Leave covered for about 10 minutes or until the water has evaporated and then continue cooking until bottoms are brown.
+This is my default option if I don't have a steamer pot. Heat an oiled cast iron pan on medium-low. Once hot, add dumplings to pan and cook for 2 minutes. Pour enough water to cover the base of the pan and then quickly cover with a lid. You have to act fast during this step because the water with the hot oil will create quite the mess. Leave covered for about 10 minutes or until the water has evaporated and then continue cooking until bottoms are brown.
 
 #### Boil
 
@@ -151,7 +151,7 @@ I like to fill the dumplings in sections of about 6 since this is what my steame
 
 Take the filled dumpling in both hands and gently fold the dough up so that the edges barely come together. Start from the left or right, whichever feels more comfortable, and pinch that side edge to create a seal. With your opposing hand, use your fingers to create a pleat by pushing laterally to get a little section of dough and then pinching down. Imagine pleating curtains. Take your time and go slow on the first few. It is 100% fine if you do not have perfect dumpling pleats, they will still taste good!
 
-If the pleating isn't working, then just fold the dumpling edges up and pinch to seal the edges together. Make sure you seal the edges well so they don't split oven when cooking.
+If the pleating isn't working, then just fold the dumpling edges up and pinch to seal the edges together. Make sure you seal the edges well so they don't split open when cooking.
 
 Your main goal at this step is to make sure you don't tear the dumpling wrappers.
 
