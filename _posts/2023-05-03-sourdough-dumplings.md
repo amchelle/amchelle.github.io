@@ -63,9 +63,7 @@ recipe:
 
 Sourdough dumplings are perfect little tasty bundles bursting with flavor. Making them at home is a fun, easy family activity and dinner.
 
-If you have ever looked at the ingredients in some of the store-bought dumplings or potstickers you will recoil in horror. Most of them are not something you want to feed your family.
-
-This is not a traditional dumpling filling recipe, there are many combinations that you can use depending on your preferences. More traditional ones will use soy sauce, oyster sauce, and sesame seed oil.
+This is not a traditional dumpling filling recipe, there are many combinations that you can use depending on your preferences. More traditional ones will use soy sauce, oyster sauce, and sesame seed oil. Dumplings are great because you can pack them with a wide range of ingredients and even make veggie versions.
 
 ### How to cook dumplings
 
