@@ -58,7 +58,7 @@ recipe:
 
 Your go-to classic sourdough loaf. Crunchy, golden crust with soft crumb and so much flavor! Follow this recipe to make your best loaf with a beautiful ear and perfect taste.
 
-I have tested different ingredient combinations, temperature and time fluctuations, and hydration levels to get my signature classic sourdough. This is my favorite everyday loaf! I generally prefer a tighter, even crumb. I don't like large holes in my daily bread, I save that for more artisanal loaves. If you desire larger holes, you can add more water to this recipe and make sure you perform all three strech and folds.
+This is a great everyday loaf! I generally prefer a tighter, even crumb which is great for sandwiches and toast. If you desire larger holes, you can add more water to this recipe and make sure you perform all three stretch and folds or try out my [high hydration sourdough recipe](https://www.sourdoughathome.com/breads/2023/04/18/high-hydration-sourdough/). This is an intermediate level sourdough bread recipe, if you want a beginner version then start with my [overnight beginner sourdough recipe](https://www.sourdoughathome.com/breads/2023/02/24/easy-overnight-beginner-sourdough/).
 
 ### What are the timings?
 
