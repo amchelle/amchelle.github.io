@@ -22,7 +22,7 @@ recipe:
     **Dough**
 
     * 430 g [bread flour](https://amzn.to/3HldQHP)
-    * 300 g filtered water
+    * 300 g filtered water (up to 323 g is acceptable)
     * 65 g bubbly starter
     * 10 g [salt](https://amzn.to/3kJMDqI)
     * (Optional rice flour for dusting)
@@ -48,17 +48,23 @@ recipe:
     1. **Make dough.** Measure and mix water and starter in a mixing bowl until fully combined. Add bread flour and mix. Dough will be shaggy. Add salt to top, cover with lid or damp towel and let sit for 30 minutes.
     2. **Autolyse.** Mix salt into dough and let sit for 30 minutes.
     3. **Stretch and fold.** Perform a stretch and fold and let sit covered for 30 minutes. Repeat step up to two more times.
-    4. **Bulk fermentation.** Leave dough covered for ~7 hours after you start step 2.
+    4. **Bulk fermentation.** Leave dough covered for ~7 hours after you start step 1.
     5. **Shape.** Flour countertop and scrape dough out of bowl. Perform a letter fold and let sit for 10 minutes.
     6. **Proof.** Shape into boule or bâtard and place into banneton basket or bowl with floured dish towel. Cover with plastic shower cap or damp towel, put in fridge, and let sit overnight for 12-13 hours.
     7. **Preheat.** Preheat oven to 500°F with pot and lid in oven for 30-1hr depending on pot. 
     8. **Score.** Take dough out of fridge, flip onto parchment paper (for Dutch oven) or straight onto Challenger pan. Score dough. Add two ice cubes to Challenger pan or mist dough in Dutch oven.
-    9. **Bake.** Turn oven down to 450°F and bake covered for 20 minutes. Remove lid and bake for another 18-20 minutes until brown. If you are using the Challenger pan, remove lid and place the base onto the inverted lid. If you are using a Dutch oven, you might need to push baking time to 25-30 minutes for extra browning depending on your oven.
+    9. **Bake.** Turn oven down to 450°F and bake covered for 20 minutes. Remove lid and bake for another 18-20 minutes until brown. If you are using the Challenger pan, remove lid and place the base onto the inverted lid. If you are using a Dutch oven, you might need to push baking time to 25-30 minutes for extra browning depending on your oven or keep the temp at 500 degrees.
 ---
 
 Your go-to classic sourdough loaf. Crunchy, golden crust with soft crumb and so much flavor! Follow this recipe to make your best loaf with a beautiful ear and perfect taste.
 
 This is a great everyday loaf! I generally prefer a tighter, even crumb which is great for sandwiches and toast. If you desire larger holes, you can add more water to this recipe and make sure you perform all three stretch and folds or try out my [high hydration sourdough recipe](https://www.sourdoughathome.com/breads/2023/04/18/high-hydration-sourdough/). This is an intermediate level sourdough bread recipe, if you want a beginner version then start with my [overnight beginner sourdough recipe](https://www.sourdoughathome.com/breads/2023/02/24/easy-overnight-beginner-sourdough/).
+
+### Notes
+
+- This recipe has a hydration of 70%. I often increase the water to 75% for a little softer crumb. Anywhere between 300 and 323 grams of water will deliver a good loaf. It will depend on your comfort level and desired crumb.
+- If you increase the hydration, your bulk fermentation time is going to be shorter. Check your dough at the 6 hour mark.
+- If you are using a Dutch Oven and prefer a darker crust, then keep the oven at 500°F instead of lowering it to 450°F.
 
 ### What are the timings?
 
@@ -116,7 +122,7 @@ Cover dough and let sit for 30 mins.
 
 After 30 mins, your dough should be a little more relaxed and glossy looking.
 
-Wet your hands, pinch and grab one side of the dough with both hands and pull up. Stretch until you feel some resistance and fold into the center of the dough. Rotate the bowl 90 degrees and repeat the stretch and fold. Continue until you have completed all four sides. You will feel the dough tighten as you go around.
+Wet your hands, pinch and grab one side of the dough with both hands or one hand and pull up. Stretch until you feel some resistance and fold into the center of the dough. Rotate the bowl 90 degrees and repeat the stretch and fold. Continue until you have completed all four sides. You will feel the dough tighten as you go around.
 
 Take the temperature of the dough, you should notice how the thermometor comes out cleaner than before.
 
@@ -132,7 +138,7 @@ The is the main and most important step. Leave your dough covered on the counter
 
 ### 6. Shape
 
-After your 7 hours is up, your dough should look smooth and have both large and small bubbles on the surface. It should have risen about 30%.
+After your 7 hours is up, your dough should look smooth and have both large and small bubbles on the surface. It should have risen at least by 30%.
 
 Lightly flour your counter and scrape your dough out of the bowl. Get a [bench knife](https://amzn.to/3Y3PE3w) or use your hands to perform a letter fold.
 
@@ -174,17 +180,17 @@ When your oven is preheated, you can score the dough and prepare for bake. Score
 
 For a [Dutch oven](https://amzn.to/3Hgj5sx):
 
-Place parchment paper on your counter and flip dough out of the bowl or banneton. Once scored, carry the dough into the preheated pot, mist with water, and cover with lid in oven.
+Place parchment paper on your counter and flip dough out of the bowl or banneton. Once scored, carry the dough into the preheated pot, optionally mist with water, and cover with lid in oven.
 
 For [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome):
 
-Flip dough straight onto the preheated base pan. Add two ice cubes, cover with lid, and place in oven.
+Flip dough straight onto the preheated base pan or use parchment paper. Score dough, add two ice cubes, cover with lid, and place in oven.
 
 Turn oven down to 450 degrees and bake covered for 20 minutes.
 
 ![Score](/images/classic_pan.jpg)
 
-After 20 minutes, remove the lid from the dutch oven and bake for 18-20 minutes until brown, not burnt. If you are using the Challenger pan, take the lid off and place the base onto the inverted lid and put back in oven. If you are using a Dutch oven, you might need to push baking time to 25-30 minutes for extra browning depending on your oven.
+After 20 minutes, remove the lid from the dutch oven and bake for 18-20 minutes until brown, not burnt. If you are using the Challenger pan, take the lid off and place the base onto the inverted lid and put back in oven. If you are using a Dutch oven, you might need to push baking time to 25-30 minutes for extra browning depending on your oven or keep the temp at 500 degrees.
 
 |                                         |                                               |
 | --------------------------------------- | --------------------------------------------- |
