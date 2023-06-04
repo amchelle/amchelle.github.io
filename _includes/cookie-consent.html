@@ -62,9 +62,10 @@
     {% if jekyll.environment == "production" and site.google_analytics_key != '' %}
             {% include ga.js %}
         {% endif %}
-  } else {
-    document.getElementById("cookie-notice").style.display = "block";
-  }
+  } else if (readCookie('cookie-notice-dismissed')!='false'){
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+
   document
     .getElementById("cookie-notice-accept")
     .addEventListener("click", function () {
