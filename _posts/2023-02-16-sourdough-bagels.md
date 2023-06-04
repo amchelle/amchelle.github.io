@@ -123,7 +123,7 @@ After making your dough it will be very stiff. Cover your bowl(s) with a damp to
 
 ### 4. Knead
 
-Now is time for some hard work! Take your dough out of the bowl onto a clean counter and begin kneading the dough. Working with both hands in unison, push the palms of your hands into the dough and slightly push, stretching the dough. Use your fingers to pull the the dough back towards you and repeat pushing with your palms. Massage the dough in whatever movements seem natural as you continue to press and manipulate the dough. You can do this in a stand mixer for about half the time, but bagel dough is so dense that it isn't the best. I also find it very soothing to feel and work with the dough by hand.
+Now is time for some hard work! Take your dough out of the bowl onto a clean counter and begin kneading the dough. Working with both hands in unison, push the palms of your hands into the dough and slightly push, stretching the dough. Use your fingers to pull the the dough back towards you and repeat pushing with your palms. Massage the dough in whatever movements seem natural as you continue to press and manipulate the dough. You can do this in a stand mixer for about half the time, but I find it very soothing to feel and work with the dough by hand. Entirely up to you! I switch all the time.
 
 The reason we knead is to develop the gluten strands in our bagel dough. This helps trap air and let the dough rise properly. It also makes sure that all the flour is mixed in. You'll notice, before you knead, tiny clumps of flour that haven't fully blended. If we didn't knead this would limit the rise, texture, and taste of our bagels.
 
