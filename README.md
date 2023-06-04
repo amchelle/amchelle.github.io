@@ -1,6 +1,6 @@
 # Sourdough At Home
 
-Sourdough Food Blog for Sourdough At Home from Treat Jekyll Template
+Sourdough Food Blog for Sourdough At Home created from [Treat Jekyll Template](https://github.com/CloudCannon/treat-jekyll-template)
 
 ## Develop
 
