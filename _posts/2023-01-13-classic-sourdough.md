@@ -94,13 +94,13 @@ I recommend a 100% hydration starter for this receipe. This means equal parts wa
 
 Once your starter is at peak, bubbly, and doubled in size you will make your dough. My starter takes about 5-6 hours. This is going to vary depending on the temperature of your home.
 
-For your dough you can use a ceramic, Pyrex, glass, or stainless steel bowl. I like to use a [Pyrex bowl](https://amzn.to/40cm2TA) and a glass lid.
+For your dough you can use a ceramic, Pyrex, glass, or stainless steel bowl.
 
 Measure and mix 65g starter and 300g filtered water in a mixing bowl. Make sure that the starter is well mixed, this step is crucial for an even crumb. Feed your leftover starter and put in fridge or counter for next use.
 
-Measure 430g [bread flour](https://amzn.to/3HldQHP), add to bowl and mix. The dough will be sticky and shaggy.
+Measure 430g bread flour, add to bowl and mix. The dough will be sticky and shaggy.
 
-Measure 10g [salt](https://amzn.to/3kJMDqI) and either pour over the top or wait 30 minutes and add to mixture. I prefer over the top, the salt will start sweating and makes it easier to mix into the dough.
+Measure 10g salt and either pour over the top or wait 30 minutes and add to mixture. I prefer over the top, the salt will start sweating and makes it easier to mix into the dough.
 
 Cover bowl with lid or damp towel and let sit for 30 minutes. This stage is called autolyse.
 
@@ -112,7 +112,7 @@ Cover bowl with lid or damp towel and let sit for 30 minutes. This stage is call
 
 After 30 minutes, mix the salt into the dough. Don't try to over knead it, just until you don't feel salt on your fingers when you touch the dough.
 
-At this time, get the temperature of your dough with a [thermometer](https://amzn.to/3Hnvlaw). It will be a little warmer since you have just worked it with your hands.
+At this time, get the temperature of your dough with a thermometer. It will be a little warmer since you have just worked it with your hands.
 
 Cover dough and let sit for 30 mins.
 
@@ -140,7 +140,7 @@ The is the main and most important step. Leave your dough covered on the counter
 
 After your 7 hours is up, your dough should look smooth and have both large and small bubbles on the surface. It should have risen at least by 30%.
 
-Lightly flour your counter and scrape your dough out of the bowl. Get a [bench knife](https://amzn.to/3Y3PE3w) or use your hands to perform a letter fold.
+Lightly flour your counter and scrape your dough out of the bowl. Get a bench knife or use your hands to perform a letter fold.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mfdem4TbhZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -162,11 +162,11 @@ Use the bench knife or your hands to flip the dough onto the clear counter. Perf
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WXQ7XrIMGEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Get your [banneton basket](https://amzn.to/3Y3PE3w) or bowl and add a liner. If you don't have a liner use a cotton dish towel and lightly mist it with water. Sprinkle rice flour or all-purpose flour onto the liner. Make sure it is all up the sides, you don't want your dough to stick.
+Get your banneton basket or bowl and add a liner. If you don't have a liner use a cotton dish towel and lightly mist it with water. Sprinkle rice flour or all-purpose flour onto the liner. Make sure it is all up the sides, you don't want your dough to stick.
 
-Flip your shaped dough and gently place it into your bowl or banneton. Pinch together any parts of the dough where it is separting. This will make for a smooth bottom crust.
+Flip your shaped dough and gently place it into your bowl or banneton. Pinch together any parts of the dough where it is separating. This will make for a smooth bottom crust.
 
-Cover with a plastic [shower cap](https://amzn.to/3WNNEeD), ziploc bag, or damp towel and place in the fridge for 12-13 hours.
+Cover with a plastic shower cap, ziploc bag, or damp towel and place in the fridge for 12-13 hours.
 
 |                                     |                                     |
 | ----------------------------------- | ----------------------------------- |
@@ -182,9 +182,11 @@ For a [Dutch oven](https://amzn.to/3Hgj5sx):
 
 Place parchment paper on your counter and flip dough out of the bowl or banneton. Once scored, carry the dough into the preheated pot, optionally mist with water, and cover with lid in oven.
 
+Keep oven at 500 degrees if you prefer a darker crust and bake covered for 20 minutes.
+
 For [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome):
 
-Flip dough straight onto the preheated base pan or use parchment paper. Score dough, add two ice cubes, cover with lid, and place in oven.
+Flip dough straight onto the preheated base pan or use parchment paper. Score dough, add two ice cubes if desired, cover with lid, and place in oven.
 
 Turn oven down to 450 degrees and bake covered for 20 minutes.
 
