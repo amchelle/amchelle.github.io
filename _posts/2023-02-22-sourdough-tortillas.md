@@ -13,27 +13,27 @@ recipe:
 
     **Starter (Leaven)**
 
-    * 10 g [rye flour](https://amzn.to/3JpUJz6)
-    * 70 g [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 10 g rye flour
+    * 70 g all-purpose flour
     * 80 g starter
     * 80 g filtered water
 
     **Dough**
 
-    * 330 g (2 cups) [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 330 g (2 cups) all-purpose flour
     * 130 g filtered water
     * 152 g bubbly starter
-    * 10 g [salt](https://amzn.to/3kJMDqI)
-    * 3 tbsp [olive oil](https://amzn.to/3EuRB1L) or beef tallow
+    * 10 g salt
+    * 3 tbsp olive oil or beef tallow
 
     **Tools**
 
-    * [Scale](https://amzn.to/3RjG2iT)
-    * [Glass jar with lid](https://amzn.to/3RgJquU)
-    * [Mixing bowl](https://amzn.to/40cm2TA)
-    * [Bench knife, plastic scraper](https://amzn.to/3Y3PE3w)
-    * [Rolling Pin](https://amzn.to/3IMwCtT)
-    * [Cast-iron Pan](https://amzn.to/3ILOYLB)
+    * Scale
+    * Glass jar with lid
+    * Mixing bowl
+    * Bench knife, plastic scraper
+    * Rolling Pin
+    * Cast-iron Pan
 
   directions_markdown: |-
     **Starter**

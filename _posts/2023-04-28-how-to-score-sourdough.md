@@ -23,7 +23,7 @@ Lower hydration is going to be easier to score, it will also provide more of an 
 
 ### Tools for scoring sourdough
 
-I use a [bread lame](https://amzn.to/40Pce0G) and razor blade primarily for scoring. The bread lame is slightly curved and is the best tool of choice for the crescent score which produces a really great sourdough ear.
+I use a bread lame and razor blade primarily for scoring. The bread lame is slightly curved and is the best tool of choice for the crescent score which produces a really great sourdough ear.
 
 ### How to score a wheat stalk
 

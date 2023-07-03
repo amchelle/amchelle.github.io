@@ -39,11 +39,11 @@ recipe:
 
     **Tools**
 
-    * [Scale](https://amzn.to/3RjG2iT)
-    * [Glass jar with lid](https://amzn.to/3RgJquU)
-    * [Mixing bowl](https://amzn.to/40cm2TA)
-    * [Bench knife, plastic scraper](https://amzn.to/3Y3PE3w)
-    * [Rolling Pin](https://amzn.to/3IMwCtT)
+    * Scale
+    * Glass jar with lid
+    * Mixing bowl
+    * Bench knife, plastic scraper
+    * Rolling Pin
     * Cast-iron pan or steamer
 
   directions_markdown: |-

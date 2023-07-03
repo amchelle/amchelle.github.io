@@ -13,34 +13,34 @@ recipe:
   ingredients_markdown: |-
     **Lemon Bread**
 
-    * 1/2 cup (10 tbsp) [butter](https://amzn.to/3HgANMx) (room temp)
-    * 1/2 cup [cane sugar](https://amzn.to/3wRFGqu)
-    * 2 [eggs](https://amzn.to/3wGDwtD)
-    * 1/4 cup [milk](https://amzn.to/3DtygNI)
-    * 1 tsp [vanilla](https://amzn.to/3RiEkOU)
-    * 3 tbsp [lemon juice](https://amzn.to/3JBULnK)
+    * 1/2 cup (10 tbsp) butter (room temp)
+    * 1/2 cup cane sugar
+    * 2 eggs
+    * 1/4 cup milk
+    * 1 tsp vanilla
+    * 3 tbsp lemon juice
     * 80 g sourdough starter discard
     * 1 tbsp lemon zest
-    * 1 tsp [baking soda](https://amzn.to/3jooB4d)
-    * 4 g [salt](https://amzn.to/3kJMDqI)
-    * 250 g (1 1/2 cups - 2 cups) [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 1 tsp baking soda
+    * 4 g salt
+    * 250 g (1 1/2 cups - 2 cups) all-purpose flour
 
     **Glaze**
 
-    * 1 cup [powdered sugar](https://amzn.to/40A52XE)
-    * 3 tbsp [lemon juice](https://amzn.to/3JBULnK)
-    * 1 tbsp [milk](https://amzn.to/3DtygNI)
+    * 1 cup powdered sugar
+    * 3 tbsp lemon juice
+    * 1 tbsp milk
     * (optional) lemon zest topping
 
     **Tools**
 
-    * [Scale](https://amzn.to/3RjG2iT)
-    * [Measuring cups and spoons](https://amzn.to/3WQOEir)
-    * [Mixing bowl](https://amzn.to/40cm2TA)
-    * [Electric mixer or whisk](https://amzn.to/3WQUTCO)
-    * [Loaf pan](https://amzn.to/3Hnxhjc)
-    * [Lemon zester](https://amzn.to/3YBl0z1)
-    * [Lemon squeezer](https://amzn.to/3Y4ANpZ)
+    * Scale
+    * Measuring cups and spoons
+    * Mixing bowl
+    * Electric mixer or whisk
+    * Loaf pan
+    * Lemon zester
+    * Lemon squeezer
 
   directions_markdown: |-
     1. **Preheat oven.** Preheat oven to 350°F and grease loaf pan.
@@ -94,7 +94,7 @@ Measure 1 tsp baking soda, 4 g salt, 250 g all-purpose flour, and 1 tablespoon l
 
 ### 5. Add to loaf pan
 
-Pour mixture into greased [loaf pan](https://amzn.to/3Hnxhjc) and smooth the top.
+Pour mixture into greased loaf pan and smooth the top.
 
 ![Pan](/images/lemon_pan.jpg)
 

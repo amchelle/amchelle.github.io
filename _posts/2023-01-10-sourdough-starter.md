@@ -10,10 +10,10 @@ recipe:
   prep: 15 minutes
   cook: 6 - 25 days (be patient!)
   ingredients_markdown: |-
-    * 80 g [organic whole wheat flour](https://amzn.to/3HHTBWp) (one feeding)
+    * 80 g organic whole wheat flour (one feeding)
     * 80 g filtered water (per feeding)
-    * 70 g [organic all-purpose flour](https://amzn.to/3WPOQOR) (per feeding)
-    * 10 g [organic dark rye flour](https://amzn.to/3JpUJz6) (per feeding)
+    * 70 g organic all-purpose flour (per feeding)
+    * 10 g organic dark rye flour (per feeding)
 
   directions_markdown: |-
     1. Day 1: Measure and stir 80 g whole wheat flour and 80 g filter water in a glass jar. Cover with lid loosely and let sit in warm area of kitchen (80 degress) for 24 hours. It will be very thick.
@@ -28,7 +28,7 @@ Making a sourdough starter can feel like a daunting task, but it is worth the pa
 
 **Tools**
 
-You will need a [scale](https://amzn.to/3RjG2iT) that measures grams. [Glass jar with lid](https://amzn.to/3RgJquU). Something to stir with, I use a [danish whisk](https://amzn.to/3HEInBT) or spoon.
+You will need a scale that measures grams. Glass jar with lid. Something to stir with, I use a danish whisk or spoon.
 
 ![Beginning of Starter](/images/wholeWheatStarter.jpg)
 

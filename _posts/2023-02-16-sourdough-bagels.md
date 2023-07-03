@@ -13,39 +13,39 @@ recipe:
 
     **Starter (Leaven)**
 
-    * 10 g [rye flour](https://amzn.to/3JpUJz6)
-    * 70 g [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 10 g rye flour
+    * 70 g all-purpose flour
     * 80 g starter
     * 80 g filtered water
 
     **Dough**
 
-    * 430 g [bread flour](https://amzn.to/3HldQHP)
+    * 430 g bread flour
     * 236 g filter water
     * 108 g bubbly starter
-    * 10 g [salt](https://amzn.to/3kJMDqI)
-    * 40 g (1/4 cup) [brown sugar](https://amzn.to/3Y5l2yI)
+    * 10 g salt
+    * 40 g (1/4 cup) brown sugar
 
     **Cinnamon Raisin Bagels**
 
-    * 70 g (1/2 cup) [raisins](https://amzn.to/3WKx13v)
-    * 2 tsp [cinnamon](https://amzn.to/3Jqpwf4)
+    * 70 g (1/2 cup) raisins
+    * 2 tsp cinnamon
 
     **Water Boil**
 
     * 4 cups water
-    * 3 tbsp [honey](https://amzn.to/3HgANfv)
+    * 3 tbsp honey
 
     **Tools**
 
-    * [Scale](https://amzn.to/3RjG2iT)
-    * [Glass jar with lid](https://amzn.to/3RgJquU)
-    * [Mixing bowl](https://amzn.to/40cm2TA)
-    * [Bench knife, plastic scraper](https://amzn.to/3Y3PE3w)
-    * [Parchment Paper](https://amzn.to/3xtKEKo)
-    * [Pot](https://amzn.to/3lBvzDL)
-    * [Cookie Sheet](https://amzn.to/3XA7Vov)
-    * [Slotted Spatula](https://amzn.to/3Eez6P3)
+    * Scale
+    * Glass jar with lid
+    * Mixing bowl
+    * Bench knife, plastic scraper
+    * Parchment Paper
+    * Pot
+    * Cookie Sheet
+    * Slotted Spatula
 
   directions_markdown: |-
     **Starter**

@@ -13,29 +13,29 @@ recipe:
 
     **Starter (Leaven)**
 
-    * 10 g [rye flour](https://amzn.to/3JpUJz6)
-    * 60 g [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 10 g rye flour
+    * 60 g all-purpose flour
     * 70 g starter
     * 70 g filtered water
 
     **Dough**
 
-    * 430 g [bread flour](https://amzn.to/3HldQHP)
+    * 430 g bread flour
     * 260 g filter water
     * 86 g bubbly starter
-    * 10 g [salt](https://amzn.to/3kJMDqI)
+    * 10 g salt
     * (optional) rice flour for dusting banneton
 
     **Tools**
 
-    * [Scale](https://amzn.to/3RjG2iT)
-    * [Glass jar with lid](https://amzn.to/3RgJquU)
-    * [Mixing bowl](https://amzn.to/40cm2TA)
-    * [Shower cap](https://amzn.to/3WNNEeD), plastic bag, or damp [dish towel](https://amzn.to/3JpT78w)
-    * [(optional) Bench knife, plastic scraper](https://amzn.to/3Y3PE3w)
-    * [Banneton](https://amzn.to/3Y3PE3w) or bowl with dish towel
-    * [Parchment Paper](https://amzn.to/3xtKEKo)
-    * [Dutch oven](https://amzn.to/3Hgj5sx)
+    * Scale
+    * Glass jar with lid
+    * Mixing bowl
+    * Shower cap, plastic bag, or damp dish towel
+    * (optional) Bench knife, plastic scraper
+    * Banneton or bowl with dish towel
+    * Parchment Paper
+    * Dutch oven
 
   directions_markdown: |-
     **Starter**

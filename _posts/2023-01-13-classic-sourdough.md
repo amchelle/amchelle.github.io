@@ -14,30 +14,30 @@ recipe:
 
     **Starter (Leaven)**
 
-    * 10 g [rye flour](https://amzn.to/3JpUJz6)
-    * 70 g [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 10 g rye flour
+    * 70 g all-purpose flour
     * 80 g starter
     * 80 g filtered water
 
     **Dough**
 
-    * 430 g [bread flour](https://amzn.to/3HldQHP)
+    * 430 g bread flour
     * 300 g filtered water (up to 323 g is acceptable)
     * 65 g bubbly starter
-    * 10 g [salt](https://amzn.to/3kJMDqI)
+    * 10 g salt
     * (Optional rice flour for dusting)
 
     **Tools**
 
-    * [Scale](https://amzn.to/3RjG2iT)
-    * [Glass jar with lid](https://amzn.to/3RgJquU)
-    * [Mixing bowl](https://amzn.to/40cm2TA)
-    * [Instant Read Kitchen Thermometer](https://amzn.to/3Hnvlaw)
-    * [Bench knife, plastic scraper](https://amzn.to/3Y3PE3w)
-    * [Shower cap](https://amzn.to/3WNNEeD), plastic bag, or damp [dish towel](https://amzn.to/3JpT78w)
-    * Knife or [bread lame](https://amzn.to/3Y3PE3w)
-    * [Dutch oven](https://amzn.to/3Hgj5sx) & parchment paper or [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome)
-    * [Banneton](https://amzn.to/3Y3PE3w) or bowl with dish towel
+    * Scale
+    * Glass jar with lid
+    * Mixing bowl
+    * Instant Read Kitchen Thermometer
+    * Bench knife, plastic scraper
+    * Shower cap, plastic bag, or damp dish towel
+    * Knife or bread lame
+    * Dutch oven & parchment paper or [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome)
+    * Banneton or bowl with dish towel
 
   directions_markdown: |-
     **Starter**
@@ -178,7 +178,7 @@ Preheat your oven to 500 degrees with the pot and lid in the oven. If you are us
 
 When your oven is preheated, you can score the dough and prepare for bake. Score the dough with a classic crescent, cross, or slash down the middle. You can use a knife or a bread lame to perform the score.
 
-For a [Dutch oven](https://amzn.to/3Hgj5sx):
+For a Dutch oven:
 
 Place parchment paper on your counter and flip dough out of the bowl or banneton. Once scored, carry the dough into the preheated pot, optionally mist with water, and cover with lid in oven.
 

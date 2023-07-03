@@ -29,15 +29,15 @@ recipe:
 
     **Tools**
 
-    * [Scale](https://amzn.to/3RjG2iT)
-    * [Glass jar with lid](https://amzn.to/3RgJquU)
-    * [Mixing bowl](https://amzn.to/40cm2TA)
-    * [Bench knife, plastic scraper](https://amzn.to/3Y3PE3w)
-    * [Shower cap](https://amzn.to/3WNNEeD), plastic bag, or damp [dish towel](https://amzn.to/3JpT78w)
-    * Knife or [bread lame](https://amzn.to/3Y3PE3w)
-    * [Dutch oven](https://amzn.to/3Hgj5sx) or [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome)
+    * Scale
+    * Glass jar with lid
+    * Mixing bowl
+    * Bench knife, plastic scraper
+    * Shower cap, plastic bag, or damp dish towel
+    * Knife or bread lame
+    * Dutch oven or [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome)
     * Parchment Paper
-    * [Banneton](https://amzn.to/3Y3PE3w) or bowl with dish towel
+    * Banneton or bowl with dish towel
 
   directions_markdown: |-
     **Starter**

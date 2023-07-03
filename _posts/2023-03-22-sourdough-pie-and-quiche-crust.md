@@ -13,27 +13,27 @@ recipe:
 
     **Starter (Leaven)**
 
-    * 10 g [rye flour](https://amzn.to/3JpUJz6)
-    * 40 g [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 10 g rye flour
+    * 40 g all-purpose flour
     * 50 g starter
     * 50 g filtered water
 
     **Pie Dough**
 
-    * 150 g [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 150 g all-purpose flour
     * 65 g bubbly starter
-    * 2 g (pinch) [salt](https://amzn.to/3kJMDqI)
-    * 7 tbsp [butter](https://amzn.to/3HgANMx) (cold)
+    * 2 g (pinch) salt
+    * 7 tbsp butter (cold)
 
     **Tools**
 
-    * [Scale](https://amzn.to/3RjG2iT)
-    * [Glass jar with lid](https://amzn.to/3RgJquU)
-    * [Mixing bowl](https://amzn.to/40cm2TA)
-    * [Rolling Pin](https://amzn.to/3IMwCtT)
-    * [Parchment Paper](https://amzn.to/3xtKEKo)
-    * [Ceramic Pie Weights](https://amzn.to/3LGbcQT)
-    * [Pie Base](https://amzn.to/40jDVyW)
+    * Scale
+    * Glass jar with lid
+    * Mixing bowl
+    * Rolling Pin
+    * Parchment Paper
+    * Ceramic Pie Weights
+    * Pie Base
 
   directions_markdown: |-
     **Starter**
@@ -87,7 +87,7 @@ The first issue is fixed by "docking" the crust. This technique involves poking 
 
 ![Docking a pie crust](/images/pie_docking.jpg)
 
-The second issue is fixed by pie weights to hold up the sides of the pie that would normally be held up by the pie filling. Before blind baking, put a sheet of parchment paper inside the pie crust and fill it to the top with pie weights. Pie weights can be beans, rice, or sugar. I usually like beans since they are always in my pantry and are reusable a few times. If you bake a lot of pies I would recommend reusable [ceramic pie weights](https://amzn.to/3LGbcQT). They are the best choice and really hold the shape of the crust well. Do not skip this step, I have tried without and you always end up with a pie puddle and it is very dissapointing.
+The second issue is fixed by pie weights to hold up the sides of the pie that would normally be held up by the pie filling. Before blind baking, put a sheet of parchment paper inside the pie crust and fill it to the top with pie weights. Pie weights can be beans, rice, or sugar. I usually like beans since they are always in my pantry and are reusable a few times. If you bake a lot of pies I would recommend reusable ceramic pie weights. They are the best choice and really hold the shape of the crust well. Do not skip this step, I have tried without and you always end up with a pie puddle and it is very dissapointing.
 
 ![Pie Weights](/images/pie_weights.jpg)
 

@@ -12,28 +12,28 @@ recipe:
   ingredients_markdown: |-
     **Banana Bread**
 
-    * 4 overripe [bananas](https://amzn.to/3Y99lqF)
-    * 1/4 cup [brown sugar](https://amzn.to/3Y5l2yI)
-    * 1/2 cup [butter](https://amzn.to/3HgANMx) (room temp)
-    * 1/4 cup [milk](https://amzn.to/3DtygNI)
-    * 2 [eggs](https://amzn.to/3wGDwtD)
-    * 1 tsp [vanilla](https://amzn.to/3RiEkOU)
+    * 4 overripe bananas
+    * 1/4 cup brown sugar
+    * 1/2 cup butter (room temp)
+    * 1/4 cup milk
+    * 2 eggs
+    * 1 tsp vanilla
     * 90 g sourdough starter discard
-    * 1/4 tsp [nutmeg](https://amzn.to/3Hk3LLl)
-    * 1/2 tsp [cinnamon](https://amzn.to/3Jqpwf4)
-    * 1 tsp [baking soda](https://amzn.to/3jooB4d)
-    * 4 g [salt](https://amzn.to/3kJMDqI)
-    * 250 g [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 1/4 tsp nutmeg
+    * 1/2 tsp cinnamon
+    * 1 tsp baking soda
+    * 4 g salt
+    * 250 g all-purpose flour
     * 1/4 cup (optional) chocolate chips, raisins, nuts, dried bananas
 
 
     **Tools**
 
-    * [Scale](https://amzn.to/3RjG2iT)
-    * [Measuring cups and spoons](https://amzn.to/3WQOEir)
-    * [Mixing bowl](https://amzn.to/40cm2TA)
-    * [Electric mixer or whisk](https://amzn.to/3WQUTCO)
-    * [Loaf pan](https://amzn.to/3Hnxhjc)
+    * Scale
+    * Measuring cups and spoons
+    * Mixing bowl
+    * Electric mixer or whisk
+    * Loaf pan
 
   directions_markdown: |-
     1. **Preheat oven.** Preheat oven to 350°F.
@@ -129,7 +129,7 @@ Measure 1/4 tsp nutmeg, 1/2 tsp cinnamon, 1 tsp baking soda, 4 g salt, and 250 g
 
 ### 5. Add to loaf pan
 
-Pour mixture into greased [loaf pan](https://amzn.to/3Hnxhjc) and smooth the top.
+Pour mixture into greased loaf pan and smooth the top.
 
 ![Pan](/images/banana_pan.jpg)
 

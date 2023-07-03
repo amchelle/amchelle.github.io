@@ -12,8 +12,8 @@ recipe:
   ingredients_markdown: |-
     **Starter (Leaven)**
 
-    * 10 g [rye flour](https://amzn.to/3JpUJz6)
-    * 50 g [all-purpose flour](https://amzn.to/3WPOQOR)
+    * 10 g rye flour
+    * 50 g all-purpose flour
     * 60 g starter
     * 60 g filtered water
 
@@ -21,23 +21,23 @@ recipe:
 
     * 90 g starter
     * 270 g filtered water
-    * 2 tbsp [butter](https://amzn.to/3HgANMx) (softened)
-    * 450 g [bread flour](https://amzn.to/3HldQHP)
-    * 10 g [salt](https://amzn.to/3kJMDqI)
-    * 3/4 cup [raisins](https://amzn.to/3WKx13v)
+    * 2 tbsp butter (softened)
+    * 450 g bread flour
+    * 10 g salt
+    * 3/4 cup raisins
 
     **Filling**
 
-    * 2 tsp [cinnamon](https://amzn.to/3Jqpwf4)
-    * 1/4 cup [brown sugar](https://amzn.to/3Y5l2yI)
+    * 2 tsp cinnamon
+    * 1/4 cup brown sugar
 
     **Tools**
 
-    * [Scale](https://amzn.to/3RjG2iT)
-    * [Mixing bowl](https://amzn.to/40cm2TA)
-    * [plastic scraper](https://amzn.to/3DqWLuY)
-    * [Dish towel](https://amzn.to/3JpT78w)
-    * [Loaf pan](https://amzn.to/3Hnxhjc)
+    * Scale
+    * Mixing bowl
+    * Plastic scraper
+    * Dish towel
+    * Loaf pan
 
   directions_markdown: |-
     **Starter**
@@ -111,11 +111,11 @@ I recommend a 100% hydration starter for this receipe. This means equal parts wa
 
 Once your starter is at peak, bubbly, and doubled in size you will make your dough. My starter takes about 5-6 hours. This is going to vary depending on the temperature of your home.
 
-For your dough you can use a ceramic, Pyrex, glass, or stainless steel bowl. I like to use a [Pyrex bowl](https://amzn.to/40cm2TA) and a glass lid.
+For your dough you can use a ceramic, Pyrex, glass, or stainless steel bowl. I like to use a glass bowl.
 
 Measure and mix 90g starter and 270g filtered water in a mixing bowl. Feed your leftover starter and put in fridge or counter for next use.
 
-Measure 450g [bread flour](https://amzn.to/3HldQHP) and 10g [salt](https://amzn.to/3kJMDqI), add to bowl and mix slowly. The dough will be sticky and shaggy. Measure 2 tbsp [butter](https://amzn.to/3HgANMx) and cut into cubes over the bowl. Use your hands to knead and incorporate the butter. It will soften and combine as you mix. Knead until all butter if fully dissolved.
+Measure 450g bread flour and 10g salt, add to bowl and mix slowly. The dough will be sticky and shaggy. Measure 2 tbsp butter and cut into cubes over the bowl. Use your hands to knead and incorporate the butter. It will soften and combine as you mix. Knead until all butter if fully dissolved.
 
 Cover bowl with lid or damp towel and let sit for 1 hour. This stage is called autolyse.
 
@@ -123,7 +123,7 @@ Cover bowl with lid or damp towel and let sit for 1 hour. This stage is called a
 
 ### 3. Soak Raisins
 
-Measure [raisins](https://amzn.to/3WKx13v) and add to a cup. Fill with warm water and let soak for the remainder of the autolyse hour in Step 2.
+Measure raisins and add to a cup. Fill with warm water and let soak for the remainder of the autolyse hour in Step 2.
 
 ![Raisins](/images/raisin_raisins.jpg)
 
@@ -155,13 +155,13 @@ Leave your dough covered on the counter for 12-13 hours (overnight) after you st
 
 In the morning, your dough should look smooth and have both large and small bubbles on the surface. It should have risen 50%.
 
-Lightly flour your counter and scrape your dough out of the bowl. Grease the inside of your [loaf pan](https://amzn.to/3Hnxhjc) and set it at the top of your dough. Gently shape the dough into a rectangle and pull the dough to the width of your loaf pan. Poke the dough with your fingers to press out any bubbles.
+Lightly flour your counter and scrape your dough out of the bowl. Grease the inside of your loaf pan and set it at the top of your dough. Gently shape the dough into a rectangle and pull the dough to the width of your loaf pan. Poke the dough with your fingers to press out any bubbles.
 
 ![Rest](/images/raisin_shape.jpg)
 
 ### 8. Fill & Roll
 
-Measure and mix 2 tsp [cinnamon](https://amzn.to/3Jqpwf4) and 1/4 cup [brown sugar](https://amzn.to/3Y5l2yI) in a bowl. Sprinkle evenly over rectangle dough. Try to avoid the sides, as it will seep out when baked.
+Measure and mix 2 tsp cinnamon and 1/4 cup brown sugar in a bowl. Sprinkle evenly over rectangle dough. Try to avoid the sides, as it will seep out when baked.
 
 Take one width side and roll the dough. With each roll, gently press the edges down to keep the filling intact.
 
@@ -169,7 +169,7 @@ Take one width side and roll the dough. With each roll, gently press the edges d
 
 ### 9. Proof (second rise)
 
-Cover with a damp [dish towel](https://amzn.to/3JpT78w) and let sit for about 4 hours. The dough will have risen well above the rim of the loaf pan. If you poke the dough, it should very slowly rise back. If you don't properly proof at this stage, your finished loaf will tear on the sides and break its shape. This stage ranges anywhere from 2 to 6 hours. The number one issue with this loaf is not letting it proof long enough.
+Cover with a damp dish towel and let sit for about 4 hours. The dough will have risen well above the rim of the loaf pan. If you poke the dough, it should very slowly rise back. If you don't properly proof at this stage, your finished loaf will tear on the sides and break its shape. This stage ranges anywhere from 2 to 6 hours. The number one issue with this loaf is not letting it proof long enough.
 
 |                                            |                                          |
 | ------------------------------------------ | ---------------------------------------- | -------------------------------------- |
