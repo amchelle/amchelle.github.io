@@ -72,10 +72,10 @@ A spray bottle is used to mist the dough with water before baking in the oven. Y
 
 You can technically bake sourdough without a dutch oven but it will NEVER turn out as well. You just can't get the level of steam you need for a good rise, crispy crust, and soft crumb.
 
-I recommend and use the [Lodge Dutch Oven](https://amzn.to/3HQujEm). It is a cheaper option, retains steam, and has even heat application. You can also use a [Le Creuset Cast Iron Bread Oven](https://amzn.to/3XnLEu6). This one is really great for steam, but is on the pricy side.
+I recommend and use the [Lodge Dutch Oven](https://amzn.to/3HQujEm). It is a cheaper option, retains steam, and has even heat application.
 
 ![Dutch Oven](/images/tools_dutch.jpg)
 
-If you want to take your bread to the next level, then hands down get the [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome). The pan was invented by a sourdough baker and it the optimal vessel for sourdough baking. It has great space, excellent steam, and you can get that gorgeous dark crispy crust that I just can't get with the dutch oven. It is on the pricy side and is really heavy, but if you bake a lot it is worth the investment.
+If you want to take your bread to the next level, then hands down get the [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome). The pan was invented by a baker and it the optimal vessel for sourdough baking. It has great space, excellent steam, and you can get that gorgeous dark crispy crust that I just can't get with the dutch oven. It is on the pricy side and is really heavy, but if you bake a lot it is worth the investment.
 
 ![Challenger Bread Pan](/images/tools_challenger.jpg)
