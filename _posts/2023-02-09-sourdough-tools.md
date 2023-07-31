@@ -72,7 +72,7 @@ A spray bottle is used to mist the dough with water before baking in the oven. Y
 
 You can technically bake sourdough without a dutch oven but it will NEVER turn out as well. You just can't get the level of steam you need for a good rise, crispy crust, and soft crumb.
 
-I recommend and use the [Lodge Dutch Oven](https://amzn.to/3HQujEm). It is a cheaper option, retains steam, and has even heat application.
+I recommend and use the Lodge Dutch Oven. It is a cheaper option, retains steam, and has even heat application.
 
 ![Dutch Oven](/images/tools_dutch.jpg)
 

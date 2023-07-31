@@ -64,7 +64,7 @@ This loaf has a hydration of 82.5%. If you don't feel quite comfortable handling
 
 Whole wheat is higher in protein so it needs more water than a dough that is all bread flour. If you try to make a 85% hydration dough with just bread flour it is going to feel and taste more stretchy and rubbery. Higher hydration, with the proper techniques, creates that desired open wild soft crumb. The benefits of higher hydration are not limited to the crumb. The crust is going to be crispier and the bread will stay fresher for longer. Lower hydration doughs can turn crumbly in just a day. To learn more about sourdough hydration levels checkout my [blog post](https://www.sourdoughathome.com/general/2023/02/08/understanding-sourdough-hydration-levels/).
 
-This is the basic recipe template I go off of when I make sourdough. Try adding more water, flour or different flour combos to perfect your sourdough. My favorite variation is with Einkorn. It creates a very flavorful bread and is incredibly nutritious. I like the flavor of it much more than whole wheat. Einkorn does have more protein in it than standard whole wheat and will be a little sticky. Make sure you autolyse for at least an hour with this flour so it can fully hydrate. You can find Einkorn in most stores, I like to use [Jovial Organic Einkorn Whole Wheat Flour](https://amzn.to/3KXEloO). If you want to go above and beyond, I highly recommend grinding your own wheat berries!
+This is the basic recipe template I go off of when I make sourdough. Try adding more water, flour or different flour combos to perfect your sourdough. My favorite variation is with Einkorn. It creates a very flavorful bread and is incredibly nutritious. I like the flavor of it much more than whole wheat. Einkorn does have more protein in it than standard whole wheat and will be a little sticky. Make sure you autolyse for at least an hour with this flour so it can fully hydrate. You can find Einkorn in most stores, I like to use Jovial Organic Einkorn Whole Wheat Flour. If you want to go above and beyond, I highly recommend grinding your own wheat berries!
 
 ![Final Sourdough Batard](/images/crumb_top.jpg)
 
@@ -167,7 +167,7 @@ Cover dough with damp towel or shower cap and place in fridge overnight for at l
 
 ### 11. Bake
 
-Preheat your oven to 500 degrees with the pot and lid in the oven. I recommend using a [Dutch oven](https://amzn.to/3Hgj5sx) or [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome).
+Preheat your oven to 500 degrees with the pot and lid in the oven. I recommend using a Dutch oven or [Challenger Bread Pan](https://challengerbreadware.com/?ref=sourdoughathome).
 
 Flip dough out of banneton onto a piece of parchment paper that will just fit the dough. You don't want it too big or it will prevent the sides from browning and also create wrinkles in the side of the bread, this is especially a problem with the dutch oven. Keep in mind, the parchment paper does need to be large enough to carry the dough to the baking vessel.
 

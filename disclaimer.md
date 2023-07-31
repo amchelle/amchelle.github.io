@@ -19,5 +19,3 @@ The Site may contain (or you may be sent through the Site) links to other websit
 The Site may contain links to affiliate websites, and we receive an affiliate commission for any purchases made by you on the affiliate website using such links. Our affiliates include the following:
 
 - [Challenger Breadware](https://challengerbreadware.com/?ref=sourdoughathome)
-
-We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn advertising fees by linking to Amazon.com and affiliated websites.
